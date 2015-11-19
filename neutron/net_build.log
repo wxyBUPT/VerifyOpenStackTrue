@@ -1,0 +1,3 @@
+Tue,10 Nov 2015 10:38:42 network_builder.py [line:11] DEBUG This is debug
+Tue,10 Nov 2015 10:38:42 network_builder.py [line:12] INFO This is info
+Tue,10 Nov 2015 10:38:42 network_builder.py [line:13] WARNING This is warning

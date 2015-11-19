@@ -1,0 +1,775 @@
+2015-11-14 21:49:01,185 - builder - INFO - 这是一条debug
+2015-11-14 21:53:40,920 - builder - INFO - 这是一条debug
+2015-11-14 21:54:03,819 - builder - INFO - 这是一条debug
+2015-11-15 14:00:25,650 - builder - ERROR - 配置文件缺少net_management
+2015-11-15 14:01:04,888 - builder - ERROR - 配置文件缺少net_management
+2015-11-15 14:01:17,303 - builder - ERROR - 配置文件缺少net_management
+2015-11-15 14:02:33,906 - builder - ERROR - 配置文件缺少net_management-76ae440a-8b5e-11e5-b324-acbc327f1f17
+2015-11-15 15:36:18,005 - builder - ERROR - 配置文件缺少net_management-8ed1e4ab-8b6b-11e5-80fe-acbc327f1f17
+2015-11-15 15:37:16,309 - builder - ERROR - 配置文件缺少net_management-b18d72de-8b6b-11e5-ba5b-acbc327f1f17
+2015-11-15 19:05:05,995 - builder - INFO - auth_token : 1838f38b46344573b59e00e7881dbcd7 uuid : b9d3deca-8b88-11e5-af24-acbc327f1f17
+2015-11-15 19:05:06,001 - builder - ERROR - 配置文件缺少net_management-b9d3deca-8b88-11e5-af24-acbc327f1f17
+2015-11-15 19:05:06,001 - builder - INFO - 根据section net_public 创建网络 b9d3deca-8b88-11e5-af24-acbc327f1f17
+2015-11-15 19:05:29,958 - builder - INFO - auth_token : 4055397ed15c43989bb113f6f9767180 uuid : c8517d0c-8b88-11e5-be00-acbc327f1f17
+2015-11-15 19:05:29,964 - builder - ERROR - 配置文件缺少net_management-c8517d0c-8b88-11e5-be00-acbc327f1f17
+2015-11-15 19:05:29,965 - builder - INFO - 根据section net_public 创建网络 c8517d0c-8b88-11e5-be00-acbc327f1f17
+2015-11-15 19:05:31,257 - builder - INFO - 根据section net_flat 创建网络 c8517d0c-8b88-11e5-be00-acbc327f1f17
+2015-11-15 19:10:20,978 - builder - INFO - auth_token : 81d16417668e484697f15e04e3744ff4 uuid : 75d93521-8b89-11e5-b447-acbc327f1f17
+2015-11-15 19:10:20,983 - builder - INFO - 根据section net_management 创建网络 75d93521-8b89-11e5-b447-acbc327f1f17
+2015-11-15 19:10:20,983 - builder - INFO - 创建网络Management Network
+2015-11-15 19:10:21,212 - builder - INFO - 根据section net_public 创建网络 75d93521-8b89-11e5-b447-acbc327f1f17
+2015-11-15 19:10:21,212 - builder - INFO - 创建网络Public Network
+2015-11-15 19:10:21,339 - builder - INFO - 根据section net_flat 创建网络 75d93521-8b89-11e5-b447-acbc327f1f17
+2015-11-15 19:10:21,339 - builder - INFO - 创建网络Flat Network
+2015-11-15 22:47:41,146 - builder - INFO - auth_token : 7b860248b0fe44cfaaf0ce851bc51602 uuid : d22afdfd-8ba7-11e5-9d35-acbc327f1f17
+2015-11-15 22:47:41,152 - builder - INFO - 根据section net_management 创建网络 d22afdfd-8ba7-11e5-9d35-acbc327f1f17
+2015-11-15 22:47:41,153 - builder - INFO - 创建网络Management Network
+2015-11-15 22:47:44,347 - builder - INFO - netId=bca7f426-e080-4851-bc12-9c496ef2333b的网络创建成功，当前状态为ACTIVE
+2015-11-15 22:47:44,347 - builder - INFO - 根据section net_public 创建网络 d22afdfd-8ba7-11e5-9d35-acbc327f1f17
+2015-11-15 22:47:44,348 - builder - INFO - 创建网络Public Network
+2015-11-15 22:47:44,476 - builder - INFO - netId=7a553e54-f441-4613-ba17-644d265e2d62的网络创建成功，当前状态为ACTIVE
+2015-11-15 22:47:44,476 - builder - INFO - 根据section net_flat 创建网络 d22afdfd-8ba7-11e5-9d35-acbc327f1f17
+2015-11-15 22:47:44,477 - builder - INFO - 创建网络Flat Network
+2015-11-15 22:47:44,768 - builder - INFO - netId=5a66e560-d8a7-4df4-ba0e-6ec122b2cbe6的网络创建成功，当前状态为ACTIVE
+2015-11-15 22:53:25,843 - builder - INFO - auth_token : 013b50002d1648f0ae80f57e59016509 uuid : 9f8d8e0f-8ba8-11e5-b2d6-acbc327f1f17
+2015-11-15 22:53:25,848 - builder - INFO - 根据section net_management 创建网络 9f8d8e0f-8ba8-11e5-b2d6-acbc327f1f17
+2015-11-15 22:53:25,849 - builder - INFO - 创建网络Management Network
+2015-11-15 22:53:26,486 - builder - INFO - netId=d089a2f4-e90e-44fe-8393-300109d3210d的网络创建成功，当前状态为ACTIVE-9f8d8e0f-8ba8-11e5-b2d6-acbc327f1f17
+2015-11-15 22:53:26,486 - builder - INFO - 根据section net_public 创建网络 9f8d8e0f-8ba8-11e5-b2d6-acbc327f1f17
+2015-11-15 22:53:26,486 - builder - INFO - 创建网络Public Network
+2015-11-15 22:53:27,312 - builder - INFO - netId=872ed5e2-8c40-4ad7-b7d2-3973407a5e30的网络创建成功，当前状态为ACTIVE-9f8d8e0f-8ba8-11e5-b2d6-acbc327f1f17
+2015-11-15 22:53:27,312 - builder - INFO - 根据section net_flat 创建网络 9f8d8e0f-8ba8-11e5-b2d6-acbc327f1f17
+2015-11-15 22:53:27,313 - builder - INFO - 创建网络Flat Network
+2015-11-15 22:53:27,428 - builder - INFO - netId=7cc868b6-164b-4063-a243-608d224f5f44的网络创建成功，当前状态为ACTIVE-9f8d8e0f-8ba8-11e5-b2d6-acbc327f1f17
+2015-11-16 10:38:23,873 - builder - INFO - auth_token : c17531f027084fd6959dfe1280127e27 uuid : 1b6b61f8-8c0b-11e5-aea6-acbc327f1f17
+2015-11-16 10:38:23,881 - builder - INFO - 根据section net_management 创建网络 1b6b61f8-8c0b-11e5-aea6-acbc327f1f17
+2015-11-16 10:38:23,882 - builder - INFO - 创建网络Management Network
+2015-11-16 10:38:24,137 - builder - INFO - netId=32671c52-ac41-481f-b923-af03d5e7d2d8的网络创建成功，当前状态为ACTIVE-1b6b61f8-8c0b-11e5-aea6-acbc327f1f17
+2015-11-16 10:38:24,137 - builder - INFO - 主机 blockStorage 需要添加至网络 32671c52-ac41-481f-b923-af03d5e7d2d8-1b6b61f8-8c0b-11e5-aea6-acbc327f1f17
+2015-11-16 10:42:10,961 - builder - INFO - auth_token : fbd772d9f65947388716ae836d2cf4aa uuid : a2c7c64f-8c0b-11e5-910c-acbc327f1f17
+2015-11-16 10:42:10,968 - builder - INFO - 根据section net_management 创建网络 a2c7c64f-8c0b-11e5-910c-acbc327f1f17
+2015-11-16 10:42:10,968 - builder - INFO - 创建网络Management Network
+2015-11-16 10:42:11,100 - builder - INFO - netId=217dd810-f978-4cf2-941a-2c13ccd461ec的网络创建成功，当前状态为ACTIVE-a2c7c64f-8c0b-11e5-910c-acbc327f1f17
+2015-11-16 10:42:11,101 - builder - INFO - 主机 blockStorage 需要添加至网络 217dd810-f978-4cf2-941a-2c13ccd461ec-a2c7c64f-8c0b-11e5-910c-acbc327f1f17
+2015-11-16 10:43:17,631 - builder - INFO - auth_token : 6a3049b278b444f29eb13e5fe268ce97 uuid : ca8b5f59-8c0b-11e5-86a3-acbc327f1f17
+2015-11-16 10:43:17,637 - builder - INFO - 根据section net_management 创建网络 ca8b5f59-8c0b-11e5-86a3-acbc327f1f17
+2015-11-16 10:43:17,637 - builder - INFO - 创建网络Management Network
+2015-11-16 10:43:17,777 - builder - INFO - netId=9804dccd-145d-4592-88f0-6c063e91eaee的网络创建成功，当前状态为ACTIVE-ca8b5f59-8c0b-11e5-86a3-acbc327f1f17
+2015-11-16 10:43:17,777 - builder - INFO - 主机 blockStorage 需要添加至网络 9804dccd-145d-4592-88f0-6c063e91eaee-ca8b5f59-8c0b-11e5-86a3-acbc327f1f17
+2015-11-16 10:43:40,738 - builder - INFO - auth_token : 280c7b1944464c8dab226479cab66f51 uuid : d83ba27a-8c0b-11e5-9fb3-acbc327f1f17
+2015-11-16 10:43:40,744 - builder - INFO - 根据section net_management 创建网络 d83ba27a-8c0b-11e5-9fb3-acbc327f1f17
+2015-11-16 10:43:40,744 - builder - INFO - 创建网络Management Network
+2015-11-16 10:43:40,875 - builder - INFO - netId=7a7e03ee-9b6d-4a92-bc9c-3a4877123d4f的网络创建成功，当前状态为ACTIVE-d83ba27a-8c0b-11e5-9fb3-acbc327f1f17
+2015-11-16 10:43:40,875 - builder - INFO - 主机 blockStorage 需要添加至网络 7a7e03ee-9b6d-4a92-bc9c-3a4877123d4f-d83ba27a-8c0b-11e5-9fb3-acbc327f1f17
+2015-11-16 10:43:40,875 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 7a7e03ee-9b6d-4a92-bc9c-3a4877123d4f-d83ba27a-8c0b-11e5-9fb3-acbc327f1f17
+2015-11-16 10:43:40,876 - builder - INFO - 主机 compute01 需要添加至网络 7a7e03ee-9b6d-4a92-bc9c-3a4877123d4f-d83ba27a-8c0b-11e5-9fb3-acbc327f1f17
+2015-11-16 10:43:40,876 - builder - INFO - 主机 compute02 需要添加至网络 7a7e03ee-9b6d-4a92-bc9c-3a4877123d4f-d83ba27a-8c0b-11e5-9fb3-acbc327f1f17
+2015-11-16 10:43:40,876 - builder - INFO - 主机 controller 需要添加至网络 7a7e03ee-9b6d-4a92-bc9c-3a4877123d4f-d83ba27a-8c0b-11e5-9fb3-acbc327f1f17
+2015-11-16 10:43:40,876 - builder - INFO - 根据section net_public 创建网络 d83ba27a-8c0b-11e5-9fb3-acbc327f1f17
+2015-11-16 10:43:40,876 - builder - INFO - 创建网络Public Network
+2015-11-16 10:43:40,938 - builder - INFO - netId=a375d79f-49dc-46e5-ac0a-2e398397b453的网络创建成功，当前状态为ACTIVE-d83ba27a-8c0b-11e5-9fb3-acbc327f1f17
+2015-11-16 10:43:40,938 - builder - INFO - 主机 compute01 需要添加至网络 a375d79f-49dc-46e5-ac0a-2e398397b453-d83ba27a-8c0b-11e5-9fb3-acbc327f1f17
+2015-11-16 10:43:40,938 - builder - INFO - 主机 compute02 需要添加至网络 a375d79f-49dc-46e5-ac0a-2e398397b453-d83ba27a-8c0b-11e5-9fb3-acbc327f1f17
+2015-11-16 10:43:40,939 - builder - INFO - 主机 controller 需要添加至网络 a375d79f-49dc-46e5-ac0a-2e398397b453-d83ba27a-8c0b-11e5-9fb3-acbc327f1f17
+2015-11-16 10:43:40,939 - builder - INFO - 根据section net_flat 创建网络 d83ba27a-8c0b-11e5-9fb3-acbc327f1f17
+2015-11-16 10:43:40,940 - builder - INFO - 创建网络Flat Network
+2015-11-16 10:43:41,014 - builder - INFO - netId=7e0677a6-0011-439f-b8b4-bfa4b20ce409的网络创建成功，当前状态为ACTIVE-d83ba27a-8c0b-11e5-9fb3-acbc327f1f17
+2015-11-16 10:43:41,014 - builder - INFO - 主机 controller 需要添加至网络 7e0677a6-0011-439f-b8b4-bfa4b20ce409-d83ba27a-8c0b-11e5-9fb3-acbc327f1f17
+2015-11-16 10:44:00,709 - builder - INFO - auth_token : bbbe5a616a1c440a9fe5acc2571e49cd uuid : e4393d8a-8c0b-11e5-9876-acbc327f1f17
+2015-11-16 10:44:00,715 - builder - INFO - 根据section net_management 创建网络 e4393d8a-8c0b-11e5-9876-acbc327f1f17
+2015-11-16 10:44:00,715 - builder - INFO - 创建网络Management Network
+2015-11-16 10:44:00,873 - builder - INFO - netId=127f75b6-8512-4b91-95e7-edd6b292814a的网络创建成功，当前状态为ACTIVE-e4393d8a-8c0b-11e5-9876-acbc327f1f17
+2015-11-16 10:44:00,873 - builder - INFO - 主机 blockStorage 需要添加至网络 127f75b6-8512-4b91-95e7-edd6b292814a-e4393d8a-8c0b-11e5-9876-acbc327f1f17
+2015-11-16 10:44:00,873 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 127f75b6-8512-4b91-95e7-edd6b292814a-e4393d8a-8c0b-11e5-9876-acbc327f1f17
+2015-11-16 10:44:00,874 - builder - INFO - 主机 compute01 需要添加至网络 127f75b6-8512-4b91-95e7-edd6b292814a-e4393d8a-8c0b-11e5-9876-acbc327f1f17
+2015-11-16 10:44:00,874 - builder - INFO - 主机 compute02 需要添加至网络 127f75b6-8512-4b91-95e7-edd6b292814a-e4393d8a-8c0b-11e5-9876-acbc327f1f17
+2015-11-16 10:44:00,874 - builder - INFO - 主机 controller 需要添加至网络 127f75b6-8512-4b91-95e7-edd6b292814a-e4393d8a-8c0b-11e5-9876-acbc327f1f17
+2015-11-16 10:44:00,874 - builder - INFO - 根据section net_public 创建网络 e4393d8a-8c0b-11e5-9876-acbc327f1f17
+2015-11-16 10:44:00,874 - builder - INFO - 创建网络Public Network
+2015-11-16 10:44:00,940 - builder - INFO - netId=3ff18fed-a12c-4e8b-8526-b49dab44f1fd的网络创建成功，当前状态为ACTIVE-e4393d8a-8c0b-11e5-9876-acbc327f1f17
+2015-11-16 10:44:00,940 - builder - INFO - 主机 compute01 需要添加至网络 3ff18fed-a12c-4e8b-8526-b49dab44f1fd-e4393d8a-8c0b-11e5-9876-acbc327f1f17
+2015-11-16 10:44:00,940 - builder - INFO - 主机 compute02 需要添加至网络 3ff18fed-a12c-4e8b-8526-b49dab44f1fd-e4393d8a-8c0b-11e5-9876-acbc327f1f17
+2015-11-16 10:44:00,941 - builder - INFO - 主机 controller 需要添加至网络 3ff18fed-a12c-4e8b-8526-b49dab44f1fd-e4393d8a-8c0b-11e5-9876-acbc327f1f17
+2015-11-16 10:44:00,941 - builder - INFO - 根据section net_flat 创建网络 e4393d8a-8c0b-11e5-9876-acbc327f1f17
+2015-11-16 10:44:00,941 - builder - INFO - 创建网络Flat Network
+2015-11-16 10:44:01,002 - builder - INFO - netId=101bdaf0-44b9-4196-90db-ab22f76c620f的网络创建成功，当前状态为ACTIVE-e4393d8a-8c0b-11e5-9876-acbc327f1f17
+2015-11-16 10:44:01,003 - builder - INFO - 主机 controller 需要添加至网络 101bdaf0-44b9-4196-90db-ab22f76c620f-e4393d8a-8c0b-11e5-9876-acbc327f1f17
+2015-11-16 10:44:41,774 - builder - INFO - auth_token : c1aec68b6eba44d1997256b7a7594567 uuid : fcb0db0a-8c0b-11e5-ad4d-acbc327f1f17
+2015-11-16 10:44:41,778 - builder - INFO - 根据section net_management 创建网络 fcb0db0a-8c0b-11e5-ad4d-acbc327f1f17
+2015-11-16 10:44:41,778 - builder - INFO - 创建网络Management Network
+2015-11-16 10:44:41,913 - builder - INFO - netId=06652a09-c518-4bd5-aba1-9e5f7f4d6fe0的网络创建成功，当前状态为ACTIVE-fcb0db0a-8c0b-11e5-ad4d-acbc327f1f17
+2015-11-16 10:44:41,914 - builder - INFO - 主机 blockStorage 需要添加至网络 06652a09-c518-4bd5-aba1-9e5f7f4d6fe0-fcb0db0a-8c0b-11e5-ad4d-acbc327f1f17
+2015-11-16 10:44:41,914 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 06652a09-c518-4bd5-aba1-9e5f7f4d6fe0-fcb0db0a-8c0b-11e5-ad4d-acbc327f1f17
+2015-11-16 10:44:41,914 - builder - INFO - 主机 compute01 需要添加至网络 06652a09-c518-4bd5-aba1-9e5f7f4d6fe0-fcb0db0a-8c0b-11e5-ad4d-acbc327f1f17
+2015-11-16 10:44:41,914 - builder - INFO - 主机 compute02 需要添加至网络 06652a09-c518-4bd5-aba1-9e5f7f4d6fe0-fcb0db0a-8c0b-11e5-ad4d-acbc327f1f17
+2015-11-16 10:44:41,914 - builder - INFO - 主机 controller 需要添加至网络 06652a09-c518-4bd5-aba1-9e5f7f4d6fe0-fcb0db0a-8c0b-11e5-ad4d-acbc327f1f17
+2015-11-16 10:44:41,915 - builder - INFO - 根据section net_public 创建网络 fcb0db0a-8c0b-11e5-ad4d-acbc327f1f17
+2015-11-16 10:44:41,915 - builder - INFO - 创建网络Public Network
+2015-11-16 10:44:41,976 - builder - INFO - netId=66605787-2f12-4dcc-b64b-d4ff548607e7的网络创建成功，当前状态为ACTIVE-fcb0db0a-8c0b-11e5-ad4d-acbc327f1f17
+2015-11-16 10:44:41,977 - builder - INFO - 主机 compute01 需要添加至网络 66605787-2f12-4dcc-b64b-d4ff548607e7-fcb0db0a-8c0b-11e5-ad4d-acbc327f1f17
+2015-11-16 10:44:41,977 - builder - INFO - 主机 compute02 需要添加至网络 66605787-2f12-4dcc-b64b-d4ff548607e7-fcb0db0a-8c0b-11e5-ad4d-acbc327f1f17
+2015-11-16 10:44:41,977 - builder - INFO - 主机 controller 需要添加至网络 66605787-2f12-4dcc-b64b-d4ff548607e7-fcb0db0a-8c0b-11e5-ad4d-acbc327f1f17
+2015-11-16 10:44:41,977 - builder - INFO - 根据section net_flat 创建网络 fcb0db0a-8c0b-11e5-ad4d-acbc327f1f17
+2015-11-16 10:44:41,977 - builder - INFO - 创建网络Flat Network
+2015-11-16 10:44:42,035 - builder - INFO - netId=407af49c-b764-4753-b252-de53b59e4c1a的网络创建成功，当前状态为ACTIVE-fcb0db0a-8c0b-11e5-ad4d-acbc327f1f17
+2015-11-16 10:44:42,035 - builder - INFO - 主机 controller 需要添加至网络 407af49c-b764-4753-b252-de53b59e4c1a-fcb0db0a-8c0b-11e5-ad4d-acbc327f1f17
+2015-11-16 10:44:57,287 - builder - INFO - auth_token : 097d7fa6aca448709fe648b934b4e0bc uuid : 05e5bf8a-8c0c-11e5-a554-acbc327f1f17
+2015-11-16 10:44:57,292 - builder - INFO - 根据section net_management 创建网络 05e5bf8a-8c0c-11e5-a554-acbc327f1f17
+2015-11-16 10:44:57,292 - builder - INFO - 创建网络Management Network
+2015-11-16 10:44:57,539 - builder - INFO - netId=5bb3dd30-54ee-4ad3-af1f-289aa9a33683的网络创建成功，当前状态为ACTIVE-05e5bf8a-8c0c-11e5-a554-acbc327f1f17
+2015-11-16 10:44:57,539 - builder - INFO - 主机 blockStorage 需要添加至网络 5bb3dd30-54ee-4ad3-af1f-289aa9a33683-05e5bf8a-8c0c-11e5-a554-acbc327f1f17
+2015-11-16 10:44:57,539 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 5bb3dd30-54ee-4ad3-af1f-289aa9a33683-05e5bf8a-8c0c-11e5-a554-acbc327f1f17
+2015-11-16 10:44:57,539 - builder - INFO - 主机 compute01 需要添加至网络 5bb3dd30-54ee-4ad3-af1f-289aa9a33683-05e5bf8a-8c0c-11e5-a554-acbc327f1f17
+2015-11-16 10:44:57,540 - builder - INFO - 主机 compute02 需要添加至网络 5bb3dd30-54ee-4ad3-af1f-289aa9a33683-05e5bf8a-8c0c-11e5-a554-acbc327f1f17
+2015-11-16 10:44:57,540 - builder - INFO - 主机 controller 需要添加至网络 5bb3dd30-54ee-4ad3-af1f-289aa9a33683-05e5bf8a-8c0c-11e5-a554-acbc327f1f17
+2015-11-16 10:44:57,540 - builder - INFO - 根据section net_public 创建网络 05e5bf8a-8c0c-11e5-a554-acbc327f1f17
+2015-11-16 10:44:57,540 - builder - INFO - 创建网络Public Network
+2015-11-16 10:44:57,645 - builder - INFO - netId=fae7bf1d-96db-4d60-b6b4-19116dc99e2d的网络创建成功，当前状态为ACTIVE-05e5bf8a-8c0c-11e5-a554-acbc327f1f17
+2015-11-16 10:44:57,646 - builder - INFO - 主机 compute01 需要添加至网络 fae7bf1d-96db-4d60-b6b4-19116dc99e2d-05e5bf8a-8c0c-11e5-a554-acbc327f1f17
+2015-11-16 10:44:57,646 - builder - INFO - 主机 compute02 需要添加至网络 fae7bf1d-96db-4d60-b6b4-19116dc99e2d-05e5bf8a-8c0c-11e5-a554-acbc327f1f17
+2015-11-16 10:44:57,646 - builder - INFO - 主机 controller 需要添加至网络 fae7bf1d-96db-4d60-b6b4-19116dc99e2d-05e5bf8a-8c0c-11e5-a554-acbc327f1f17
+2015-11-16 10:44:57,646 - builder - INFO - 根据section net_flat 创建网络 05e5bf8a-8c0c-11e5-a554-acbc327f1f17
+2015-11-16 10:44:57,647 - builder - INFO - 创建网络Flat Network
+2015-11-16 10:44:57,720 - builder - INFO - netId=7b3b81e1-3ad8-4e16-bd42-2fc72baf9b64的网络创建成功，当前状态为ACTIVE-05e5bf8a-8c0c-11e5-a554-acbc327f1f17
+2015-11-16 10:44:57,720 - builder - INFO - 主机 controller 需要添加至网络 7b3b81e1-3ad8-4e16-bd42-2fc72baf9b64-05e5bf8a-8c0c-11e5-a554-acbc327f1f17
+2015-11-16 11:03:35,336 - builder - INFO - auth_token : 6bf3278294074b318b0dde8281513498 uuid : a05b7651-8c0e-11e5-9372-acbc327f1f17
+2015-11-16 11:03:35,342 - builder - INFO - 根据section net_management 创建网络 a05b7651-8c0e-11e5-9372-acbc327f1f17
+2015-11-16 11:03:35,343 - builder - INFO - 创建网络Management Network-a05b7651-8c0e-11e5-9372-acbc327f1f17
+2015-11-16 11:03:35,466 - builder - INFO - netId=83501102-70ad-4352-856c-0a4352f61e4f的网络创建成功，当前状态为ACTIVE-a05b7651-8c0e-11e5-9372-acbc327f1f17
+2015-11-16 11:03:35,466 - builder - INFO - 主机 blockStorage 需要添加至网络 83501102-70ad-4352-856c-0a4352f61e4f-a05b7651-8c0e-11e5-9372-acbc327f1f17
+2015-11-16 11:03:35,466 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 83501102-70ad-4352-856c-0a4352f61e4f-a05b7651-8c0e-11e5-9372-acbc327f1f17
+2015-11-16 11:03:35,466 - builder - INFO - 主机 compute01 需要添加至网络 83501102-70ad-4352-856c-0a4352f61e4f-a05b7651-8c0e-11e5-9372-acbc327f1f17
+2015-11-16 11:03:35,467 - builder - INFO - 主机 compute02 需要添加至网络 83501102-70ad-4352-856c-0a4352f61e4f-a05b7651-8c0e-11e5-9372-acbc327f1f17
+2015-11-16 11:03:35,467 - builder - INFO - 主机 controller 需要添加至网络 83501102-70ad-4352-856c-0a4352f61e4f-a05b7651-8c0e-11e5-9372-acbc327f1f17
+2015-11-16 11:05:31,660 - builder - INFO - auth_token : b8509aed16634f0ab76f82bf4d828aaa uuid : e5a8d78f-8c0e-11e5-afa3-acbc327f1f17
+2015-11-16 11:05:31,673 - builder - INFO - 根据section net_management 创建网络 e5a8d78f-8c0e-11e5-afa3-acbc327f1f17
+2015-11-16 11:05:31,673 - builder - INFO - 创建网络Management Network-e5a8d78f-8c0e-11e5-afa3-acbc327f1f17
+2015-11-16 11:05:31,892 - builder - INFO - netId=eb589ba1-d539-45ee-9d75-46b344001f81的网络创建成功，当前状态为ACTIVE-e5a8d78f-8c0e-11e5-afa3-acbc327f1f17
+2015-11-16 11:05:31,893 - builder - INFO - 主机 blockStorage 需要添加至网络 eb589ba1-d539-45ee-9d75-46b344001f81-e5a8d78f-8c0e-11e5-afa3-acbc327f1f17
+2015-11-16 11:05:31,893 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 eb589ba1-d539-45ee-9d75-46b344001f81-e5a8d78f-8c0e-11e5-afa3-acbc327f1f17
+2015-11-16 11:05:31,893 - builder - INFO - 主机 compute01 需要添加至网络 eb589ba1-d539-45ee-9d75-46b344001f81-e5a8d78f-8c0e-11e5-afa3-acbc327f1f17
+2015-11-16 11:05:31,894 - builder - INFO - 主机 compute02 需要添加至网络 eb589ba1-d539-45ee-9d75-46b344001f81-e5a8d78f-8c0e-11e5-afa3-acbc327f1f17
+2015-11-16 11:05:31,894 - builder - INFO - 主机 controller 需要添加至网络 eb589ba1-d539-45ee-9d75-46b344001f81-e5a8d78f-8c0e-11e5-afa3-acbc327f1f17
+2015-11-16 11:06:31,556 - builder - INFO - auth_token : f985f27f89f34f408cdf3e5a1d3f0ba7 uuid : 09627ef3-8c0f-11e5-8807-acbc327f1f17
+2015-11-16 11:06:31,563 - builder - INFO - 根据section net_management 创建网络 09627ef3-8c0f-11e5-8807-acbc327f1f17
+2015-11-16 11:06:31,564 - builder - INFO - 创建网络Management Network-09627ef3-8c0f-11e5-8807-acbc327f1f17
+2015-11-16 11:06:31,686 - builder - INFO - netId=7e005a43-e120-4572-bdc4-7711b0050f50的网络创建成功，当前状态为ACTIVE-09627ef3-8c0f-11e5-8807-acbc327f1f17
+2015-11-16 11:06:31,686 - builder - INFO - 主机 blockStorage 需要添加至网络 7e005a43-e120-4572-bdc4-7711b0050f50-09627ef3-8c0f-11e5-8807-acbc327f1f17
+2015-11-16 11:06:31,686 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 7e005a43-e120-4572-bdc4-7711b0050f50-09627ef3-8c0f-11e5-8807-acbc327f1f17
+2015-11-16 11:06:31,687 - builder - INFO - 主机 compute01 需要添加至网络 7e005a43-e120-4572-bdc4-7711b0050f50-09627ef3-8c0f-11e5-8807-acbc327f1f17
+2015-11-16 11:06:31,687 - builder - INFO - 主机 compute02 需要添加至网络 7e005a43-e120-4572-bdc4-7711b0050f50-09627ef3-8c0f-11e5-8807-acbc327f1f17
+2015-11-16 11:06:31,687 - builder - INFO - 主机 controller 需要添加至网络 7e005a43-e120-4572-bdc4-7711b0050f50-09627ef3-8c0f-11e5-8807-acbc327f1f17
+2015-11-16 11:07:08,341 - builder - INFO - auth_token : 7488bb5dd2ca466b9de6465703ad5710 uuid : 1f4c5791-8c0f-11e5-85cd-acbc327f1f17
+2015-11-16 11:07:08,347 - builder - INFO - 根据section net_management 创建网络 1f4c5791-8c0f-11e5-85cd-acbc327f1f17
+2015-11-16 11:07:08,347 - builder - INFO - 创建网络Management Network-1f4c5791-8c0f-11e5-85cd-acbc327f1f17
+2015-11-16 11:07:08,499 - builder - INFO - netId=932fb658-f67b-4284-b7a5-a8e3bfeac693的网络创建成功，当前状态为ACTIVE-1f4c5791-8c0f-11e5-85cd-acbc327f1f17
+2015-11-16 11:07:08,499 - builder - INFO - 主机 blockStorage 需要添加至网络 932fb658-f67b-4284-b7a5-a8e3bfeac693-1f4c5791-8c0f-11e5-85cd-acbc327f1f17
+2015-11-16 11:07:08,499 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 932fb658-f67b-4284-b7a5-a8e3bfeac693-1f4c5791-8c0f-11e5-85cd-acbc327f1f17
+2015-11-16 11:07:08,499 - builder - INFO - 主机 compute01 需要添加至网络 932fb658-f67b-4284-b7a5-a8e3bfeac693-1f4c5791-8c0f-11e5-85cd-acbc327f1f17
+2015-11-16 11:07:08,499 - builder - INFO - 主机 compute02 需要添加至网络 932fb658-f67b-4284-b7a5-a8e3bfeac693-1f4c5791-8c0f-11e5-85cd-acbc327f1f17
+2015-11-16 11:07:08,500 - builder - INFO - 主机 controller 需要添加至网络 932fb658-f67b-4284-b7a5-a8e3bfeac693-1f4c5791-8c0f-11e5-85cd-acbc327f1f17
+2015-11-16 11:08:47,583 - builder - INFO - auth_token : 9c257c1dcab74176b27a0c5ac9fb7a40 uuid : 5a720ed4-8c0f-11e5-9cbb-acbc327f1f17
+2015-11-16 11:08:47,593 - builder - INFO - 根据section net_management 创建网络 5a720ed4-8c0f-11e5-9cbb-acbc327f1f17
+2015-11-16 11:08:47,594 - builder - INFO - 创建网络Management Network-5a720ed4-8c0f-11e5-9cbb-acbc327f1f17
+2015-11-16 11:08:47,767 - builder - INFO - netId=c52b7d7a-071e-49b4-82d9-089944ba83af的网络创建成功，当前状态为ACTIVE-5a720ed4-8c0f-11e5-9cbb-acbc327f1f17
+2015-11-16 11:08:47,767 - builder - INFO - 主机 blockStorage 需要添加至网络 c52b7d7a-071e-49b4-82d9-089944ba83af-5a720ed4-8c0f-11e5-9cbb-acbc327f1f17
+2015-11-16 11:08:47,768 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 c52b7d7a-071e-49b4-82d9-089944ba83af-5a720ed4-8c0f-11e5-9cbb-acbc327f1f17
+2015-11-16 11:08:47,768 - builder - INFO - 主机 compute01 需要添加至网络 c52b7d7a-071e-49b4-82d9-089944ba83af-5a720ed4-8c0f-11e5-9cbb-acbc327f1f17
+2015-11-16 11:08:47,768 - builder - INFO - 主机 compute02 需要添加至网络 c52b7d7a-071e-49b4-82d9-089944ba83af-5a720ed4-8c0f-11e5-9cbb-acbc327f1f17
+2015-11-16 11:08:47,768 - builder - INFO - 主机 controller 需要添加至网络 c52b7d7a-071e-49b4-82d9-089944ba83af-5a720ed4-8c0f-11e5-9cbb-acbc327f1f17
+2015-11-16 11:08:48,074 - builder - INFO - 为网络 c52b7d7a-071e-49b4-82d9-089944ba83af 创建了子网 172.16.1.0/24-5a720ed4-8c0f-11e5-9cbb-acbc327f1f17
+2015-11-16 11:08:48,074 - builder - INFO - 根据section net_public 创建网络 5a720ed4-8c0f-11e5-9cbb-acbc327f1f17
+2015-11-16 11:08:48,074 - builder - INFO - 创建网络Public Network-5a720ed4-8c0f-11e5-9cbb-acbc327f1f17
+2015-11-16 11:08:48,247 - builder - INFO - netId=d58e1b86-2648-4a7e-8592-c804b157d10b的网络创建成功，当前状态为ACTIVE-5a720ed4-8c0f-11e5-9cbb-acbc327f1f17
+2015-11-16 11:08:48,247 - builder - INFO - 主机 compute01 需要添加至网络 d58e1b86-2648-4a7e-8592-c804b157d10b-5a720ed4-8c0f-11e5-9cbb-acbc327f1f17
+2015-11-16 11:08:48,248 - builder - INFO - 主机 compute02 需要添加至网络 d58e1b86-2648-4a7e-8592-c804b157d10b-5a720ed4-8c0f-11e5-9cbb-acbc327f1f17
+2015-11-16 11:08:48,248 - builder - INFO - 主机 controller 需要添加至网络 d58e1b86-2648-4a7e-8592-c804b157d10b-5a720ed4-8c0f-11e5-9cbb-acbc327f1f17
+2015-11-16 11:08:48,355 - builder - INFO - 为网络 d58e1b86-2648-4a7e-8592-c804b157d10b 创建了子网 192.168.2.0/24-5a720ed4-8c0f-11e5-9cbb-acbc327f1f17
+2015-11-16 11:08:48,355 - builder - INFO - 根据section net_flat 创建网络 5a720ed4-8c0f-11e5-9cbb-acbc327f1f17
+2015-11-16 11:08:48,356 - builder - INFO - 创建网络Flat Network-5a720ed4-8c0f-11e5-9cbb-acbc327f1f17
+2015-11-16 11:08:48,433 - builder - INFO - netId=a9703246-edae-48db-9c49-f18dfe8bcadf的网络创建成功，当前状态为ACTIVE-5a720ed4-8c0f-11e5-9cbb-acbc327f1f17
+2015-11-16 11:08:48,433 - builder - INFO - 主机 controller 需要添加至网络 a9703246-edae-48db-9c49-f18dfe8bcadf-5a720ed4-8c0f-11e5-9cbb-acbc327f1f17
+2015-11-16 11:08:48,535 - builder - INFO - 为网络 a9703246-edae-48db-9c49-f18dfe8bcadf 创建了子网 172.16.2.0/24-5a720ed4-8c0f-11e5-9cbb-acbc327f1f17
+2015-11-16 11:10:59,533 - builder - INFO - auth_token : dcd5b79ef45942c080e65e37110c381f uuid : a91f7468-8c0f-11e5-99ab-acbc327f1f17
+2015-11-16 11:10:59,537 - builder - INFO - 根据section net_management 创建网络 a91f7468-8c0f-11e5-99ab-acbc327f1f17
+2015-11-16 11:10:59,537 - builder - INFO - 创建网络Management Network-a91f7468-8c0f-11e5-99ab-acbc327f1f17
+2015-11-16 11:10:59,661 - builder - INFO - netId=c829ea7f-5ad0-4245-8ecc-d11332b23003的网络创建成功，当前状态为ACTIVE-a91f7468-8c0f-11e5-99ab-acbc327f1f17
+2015-11-16 11:10:59,662 - builder - INFO - 主机 blockStorage 需要添加至网络 c829ea7f-5ad0-4245-8ecc-d11332b23003-a91f7468-8c0f-11e5-99ab-acbc327f1f17
+2015-11-16 11:10:59,662 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 c829ea7f-5ad0-4245-8ecc-d11332b23003-a91f7468-8c0f-11e5-99ab-acbc327f1f17
+2015-11-16 11:10:59,662 - builder - INFO - 主机 compute01 需要添加至网络 c829ea7f-5ad0-4245-8ecc-d11332b23003-a91f7468-8c0f-11e5-99ab-acbc327f1f17
+2015-11-16 11:10:59,662 - builder - INFO - 主机 compute02 需要添加至网络 c829ea7f-5ad0-4245-8ecc-d11332b23003-a91f7468-8c0f-11e5-99ab-acbc327f1f17
+2015-11-16 11:10:59,662 - builder - INFO - 主机 controller 需要添加至网络 c829ea7f-5ad0-4245-8ecc-d11332b23003-a91f7468-8c0f-11e5-99ab-acbc327f1f17
+2015-11-16 11:10:59,773 - builder - INFO - 为网络 c829ea7f-5ad0-4245-8ecc-d11332b23003 创建了子网 172.16.1.0/24-a91f7468-8c0f-11e5-99ab-acbc327f1f17
+2015-11-16 11:10:59,774 - builder - INFO - 根据section net_public 创建网络 a91f7468-8c0f-11e5-99ab-acbc327f1f17
+2015-11-16 11:10:59,774 - builder - INFO - 创建网络Public Network-a91f7468-8c0f-11e5-99ab-acbc327f1f17
+2015-11-16 11:10:59,938 - builder - INFO - netId=3fb0379f-f712-41bd-88d4-a63a9e09648e的网络创建成功，当前状态为ACTIVE-a91f7468-8c0f-11e5-99ab-acbc327f1f17
+2015-11-16 11:10:59,939 - builder - INFO - 主机 compute01 需要添加至网络 3fb0379f-f712-41bd-88d4-a63a9e09648e-a91f7468-8c0f-11e5-99ab-acbc327f1f17
+2015-11-16 11:10:59,939 - builder - INFO - 主机 compute02 需要添加至网络 3fb0379f-f712-41bd-88d4-a63a9e09648e-a91f7468-8c0f-11e5-99ab-acbc327f1f17
+2015-11-16 11:10:59,939 - builder - INFO - 主机 controller 需要添加至网络 3fb0379f-f712-41bd-88d4-a63a9e09648e-a91f7468-8c0f-11e5-99ab-acbc327f1f17
+2015-11-16 11:11:00,116 - builder - INFO - 为网络 3fb0379f-f712-41bd-88d4-a63a9e09648e 创建了子网 192.168.2.0/24-a91f7468-8c0f-11e5-99ab-acbc327f1f17
+2015-11-16 11:11:00,116 - builder - INFO - 根据section net_flat 创建网络 a91f7468-8c0f-11e5-99ab-acbc327f1f17
+2015-11-16 11:11:00,120 - builder - INFO - 创建网络Flat Network-a91f7468-8c0f-11e5-99ab-acbc327f1f17
+2015-11-16 11:11:00,210 - builder - INFO - netId=6f59bbd8-2e44-4982-b4dd-c5177a0ea97f的网络创建成功，当前状态为ACTIVE-a91f7468-8c0f-11e5-99ab-acbc327f1f17
+2015-11-16 11:11:00,210 - builder - INFO - 主机 controller 需要添加至网络 6f59bbd8-2e44-4982-b4dd-c5177a0ea97f-a91f7468-8c0f-11e5-99ab-acbc327f1f17
+2015-11-16 11:11:00,455 - builder - INFO - 为网络 6f59bbd8-2e44-4982-b4dd-c5177a0ea97f 创建了子网 172.16.2.0/24-a91f7468-8c0f-11e5-99ab-acbc327f1f17
+2015-11-16 13:33:30,783 - builder - INFO - auth_token : 9cdad2a4668b4beb87d9807e739f9e57 uuid : 91d7a923-8c23-11e5-95a0-acbc327f1f17
+2015-11-16 13:33:30,788 - builder - INFO - 根据section net_management 创建网络 91d7a923-8c23-11e5-95a0-acbc327f1f17
+2015-11-16 13:33:30,788 - builder - INFO - 创建网络Management Network-91d7a923-8c23-11e5-95a0-acbc327f1f17
+2015-11-16 13:34:16,521 - builder - INFO - auth_token : ec768544f34b4a048b48f3a82b602884 uuid : ad48640a-8c23-11e5-94dc-acbc327f1f17
+2015-11-16 13:34:16,526 - builder - INFO - 根据section net_management 创建网络 ad48640a-8c23-11e5-94dc-acbc327f1f17
+2015-11-16 13:34:16,527 - builder - INFO - 创建网络Management Network-ad48640a-8c23-11e5-94dc-acbc327f1f17
+2015-11-16 13:35:19,654 - builder - INFO - auth_token : 05712d34b38649afa0f55166bf22bf7c uuid : d2ef36de-8c23-11e5-84f8-acbc327f1f17
+2015-11-16 13:35:19,658 - builder - INFO - 根据section net_management 创建网络 d2ef36de-8c23-11e5-84f8-acbc327f1f17
+2015-11-16 13:35:19,659 - builder - INFO - 创建网络Management Network-d2ef36de-8c23-11e5-84f8-acbc327f1f17
+2015-11-16 13:35:19,860 - builder - INFO - netId=27069ded-4d45-4384-a827-64876ca498cd的网络创建成功，当前状态为ACTIVE-d2ef36de-8c23-11e5-84f8-acbc327f1f17
+2015-11-16 13:35:19,861 - builder - INFO - 主机 blockStorage 需要添加至网络 27069ded-4d45-4384-a827-64876ca498cd-d2ef36de-8c23-11e5-84f8-acbc327f1f17
+2015-11-16 13:35:19,861 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 27069ded-4d45-4384-a827-64876ca498cd-d2ef36de-8c23-11e5-84f8-acbc327f1f17
+2015-11-16 13:35:19,862 - builder - INFO - 主机 compute01 需要添加至网络 27069ded-4d45-4384-a827-64876ca498cd-d2ef36de-8c23-11e5-84f8-acbc327f1f17
+2015-11-16 13:35:19,862 - builder - INFO - 主机 compute02 需要添加至网络 27069ded-4d45-4384-a827-64876ca498cd-d2ef36de-8c23-11e5-84f8-acbc327f1f17
+2015-11-16 13:35:19,862 - builder - INFO - 主机 controller 需要添加至网络 27069ded-4d45-4384-a827-64876ca498cd-d2ef36de-8c23-11e5-84f8-acbc327f1f17
+2015-11-16 13:35:20,132 - builder - INFO - 为网络 27069ded-4d45-4384-a827-64876ca498cd 创建了子网 172.16.1.0/24-d2ef36de-8c23-11e5-84f8-acbc327f1f17
+2015-11-16 13:35:20,132 - builder - INFO - 根据section net_public 创建网络 d2ef36de-8c23-11e5-84f8-acbc327f1f17
+2015-11-16 13:35:20,132 - builder - INFO - 创建网络Public Network-d2ef36de-8c23-11e5-84f8-acbc327f1f17
+2015-11-16 13:35:20,415 - builder - INFO - netId=4b9264f0-cfce-44d8-b91b-35cd4836779a的网络创建成功，当前状态为ACTIVE-d2ef36de-8c23-11e5-84f8-acbc327f1f17
+2015-11-16 13:35:20,416 - builder - INFO - 主机 compute01 需要添加至网络 4b9264f0-cfce-44d8-b91b-35cd4836779a-d2ef36de-8c23-11e5-84f8-acbc327f1f17
+2015-11-16 13:35:20,416 - builder - INFO - 主机 compute02 需要添加至网络 4b9264f0-cfce-44d8-b91b-35cd4836779a-d2ef36de-8c23-11e5-84f8-acbc327f1f17
+2015-11-16 13:35:20,416 - builder - INFO - 主机 controller 需要添加至网络 4b9264f0-cfce-44d8-b91b-35cd4836779a-d2ef36de-8c23-11e5-84f8-acbc327f1f17
+2015-11-16 13:35:20,694 - builder - INFO - 为网络 4b9264f0-cfce-44d8-b91b-35cd4836779a 创建了子网 192.168.2.0/24-d2ef36de-8c23-11e5-84f8-acbc327f1f17
+2015-11-16 13:35:20,694 - builder - INFO - 根据section net_flat 创建网络 d2ef36de-8c23-11e5-84f8-acbc327f1f17
+2015-11-16 13:35:20,694 - builder - INFO - 创建网络Flat Network-d2ef36de-8c23-11e5-84f8-acbc327f1f17
+2015-11-16 13:35:20,845 - builder - INFO - netId=ea6b7030-6e80-436e-9472-4794724114e5的网络创建成功，当前状态为ACTIVE-d2ef36de-8c23-11e5-84f8-acbc327f1f17
+2015-11-16 13:35:20,845 - builder - INFO - 主机 controller 需要添加至网络 ea6b7030-6e80-436e-9472-4794724114e5-d2ef36de-8c23-11e5-84f8-acbc327f1f17
+2015-11-16 13:35:21,022 - builder - INFO - 为网络 ea6b7030-6e80-436e-9472-4794724114e5 创建了子网 172.16.2.0/24-d2ef36de-8c23-11e5-84f8-acbc327f1f17
+2015-11-16 13:51:17,261 - builder - INFO - auth_token : 8ddd203bd7684e0c847b9f49e182c9e9 uuid : 0dbaa1b5-8c26-11e5-9c90-acbc327f1f17
+2015-11-16 13:51:17,266 - builder - INFO - 根据section net_management 创建网络 0dbaa1b5-8c26-11e5-9c90-acbc327f1f17
+2015-11-16 13:51:48,270 - builder - INFO - auth_token : 1f652964a87842028453aea0cac3541a uuid : 2035baba-8c26-11e5-8836-acbc327f1f17
+2015-11-16 13:51:48,275 - builder - INFO - 根据section net_management 创建网络 2035baba-8c26-11e5-8836-acbc327f1f17
+2015-11-16 13:51:48,275 - builder - INFO - 创建网络Management Network-2035baba-8c26-11e5-8836-acbc327f1f17
+2015-11-16 13:51:48,384 - builder - INFO - netId=4244ac4e-bf8e-48dd-bcf1-aee098a1fddb的网络创建成功，当前状态为ACTIVE-2035baba-8c26-11e5-8836-acbc327f1f17
+2015-11-16 13:51:48,384 - builder - INFO - 主机 blockStorage 需要添加至网络 4244ac4e-bf8e-48dd-bcf1-aee098a1fddb-2035baba-8c26-11e5-8836-acbc327f1f17
+2015-11-16 13:51:48,384 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 4244ac4e-bf8e-48dd-bcf1-aee098a1fddb-2035baba-8c26-11e5-8836-acbc327f1f17
+2015-11-16 13:51:48,384 - builder - INFO - 主机 compute01 需要添加至网络 4244ac4e-bf8e-48dd-bcf1-aee098a1fddb-2035baba-8c26-11e5-8836-acbc327f1f17
+2015-11-16 13:51:48,384 - builder - INFO - 主机 compute02 需要添加至网络 4244ac4e-bf8e-48dd-bcf1-aee098a1fddb-2035baba-8c26-11e5-8836-acbc327f1f17
+2015-11-16 13:51:48,384 - builder - INFO - 主机 controller 需要添加至网络 4244ac4e-bf8e-48dd-bcf1-aee098a1fddb-2035baba-8c26-11e5-8836-acbc327f1f17
+2015-11-16 13:51:48,624 - builder - INFO - 为网络 4244ac4e-bf8e-48dd-bcf1-aee098a1fddb 创建了子网 172.16.1.0/24-2035baba-8c26-11e5-8836-acbc327f1f17
+2015-11-16 13:51:48,624 - builder - INFO - 根据section net_public 创建网络 2035baba-8c26-11e5-8836-acbc327f1f17
+2015-11-16 13:51:48,624 - builder - INFO - 创建网络Public Network-2035baba-8c26-11e5-8836-acbc327f1f17
+2015-11-16 13:51:48,779 - builder - INFO - netId=e850e14c-4559-4fb0-91bd-67179705c64e的网络创建成功，当前状态为ACTIVE-2035baba-8c26-11e5-8836-acbc327f1f17
+2015-11-16 13:51:48,779 - builder - INFO - 主机 compute01 需要添加至网络 e850e14c-4559-4fb0-91bd-67179705c64e-2035baba-8c26-11e5-8836-acbc327f1f17
+2015-11-16 13:51:48,780 - builder - INFO - 主机 compute02 需要添加至网络 e850e14c-4559-4fb0-91bd-67179705c64e-2035baba-8c26-11e5-8836-acbc327f1f17
+2015-11-16 13:51:48,780 - builder - INFO - 主机 controller 需要添加至网络 e850e14c-4559-4fb0-91bd-67179705c64e-2035baba-8c26-11e5-8836-acbc327f1f17
+2015-11-16 13:51:54,332 - builder - INFO - auth_token : 6972ef000fb84884a666512f62ab086a uuid : 23be981e-8c26-11e5-bb6a-acbc327f1f17
+2015-11-16 13:51:54,335 - builder - INFO - 根据section net_management 创建网络 23be981e-8c26-11e5-bb6a-acbc327f1f17
+2015-11-16 13:51:54,335 - builder - INFO - 创建网络Management Network-23be981e-8c26-11e5-bb6a-acbc327f1f17
+2015-11-16 13:51:54,499 - builder - INFO - netId=3a43b48b-b2bb-46ba-b72c-5118a366516d的网络创建成功，当前状态为ACTIVE-23be981e-8c26-11e5-bb6a-acbc327f1f17
+2015-11-16 13:51:54,499 - builder - INFO - 主机 blockStorage 需要添加至网络 3a43b48b-b2bb-46ba-b72c-5118a366516d-23be981e-8c26-11e5-bb6a-acbc327f1f17
+2015-11-16 13:51:54,500 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 3a43b48b-b2bb-46ba-b72c-5118a366516d-23be981e-8c26-11e5-bb6a-acbc327f1f17
+2015-11-16 13:51:54,500 - builder - INFO - 主机 compute01 需要添加至网络 3a43b48b-b2bb-46ba-b72c-5118a366516d-23be981e-8c26-11e5-bb6a-acbc327f1f17
+2015-11-16 13:51:54,500 - builder - INFO - 主机 compute02 需要添加至网络 3a43b48b-b2bb-46ba-b72c-5118a366516d-23be981e-8c26-11e5-bb6a-acbc327f1f17
+2015-11-16 13:51:54,500 - builder - INFO - 主机 controller 需要添加至网络 3a43b48b-b2bb-46ba-b72c-5118a366516d-23be981e-8c26-11e5-bb6a-acbc327f1f17
+2015-11-16 13:51:54,710 - builder - INFO - 为网络 3a43b48b-b2bb-46ba-b72c-5118a366516d 创建了子网 172.16.1.0/24-23be981e-8c26-11e5-bb6a-acbc327f1f17
+2015-11-16 13:51:54,710 - builder - INFO - 根据section net_public 创建网络 23be981e-8c26-11e5-bb6a-acbc327f1f17
+2015-11-16 13:51:54,711 - builder - INFO - 创建网络Public Network-23be981e-8c26-11e5-bb6a-acbc327f1f17
+2015-11-16 13:51:54,807 - builder - INFO - netId=0e92e6f0-a336-43af-a177-8f65f71883c7的网络创建成功，当前状态为ACTIVE-23be981e-8c26-11e5-bb6a-acbc327f1f17
+2015-11-16 13:51:54,807 - builder - INFO - 主机 compute01 需要添加至网络 0e92e6f0-a336-43af-a177-8f65f71883c7-23be981e-8c26-11e5-bb6a-acbc327f1f17
+2015-11-16 13:51:54,807 - builder - INFO - 主机 compute02 需要添加至网络 0e92e6f0-a336-43af-a177-8f65f71883c7-23be981e-8c26-11e5-bb6a-acbc327f1f17
+2015-11-16 13:51:54,807 - builder - INFO - 主机 controller 需要添加至网络 0e92e6f0-a336-43af-a177-8f65f71883c7-23be981e-8c26-11e5-bb6a-acbc327f1f17
+2015-11-16 13:58:31,244 - builder - INFO - auth_token : 207e56df09f64c2dbbae3a9c2ea57305 uuid : 105e29c7-8c27-11e5-bba9-acbc327f1f17
+2015-11-16 13:58:31,255 - builder - INFO - 根据section net_management 创建网络 105e29c7-8c27-11e5-bba9-acbc327f1f17
+2015-11-16 13:58:31,255 - builder - INFO - 创建网络Management Network-105e29c7-8c27-11e5-bba9-acbc327f1f17
+2015-11-16 13:58:31,447 - builder - INFO - netId=df5d07f0-6c63-4cc6-95b8-b14708431f93的网络创建成功，当前状态为ACTIVE-105e29c7-8c27-11e5-bba9-acbc327f1f17
+2015-11-16 13:58:31,447 - builder - INFO - 主机 blockStorage 需要添加至网络 df5d07f0-6c63-4cc6-95b8-b14708431f93-105e29c7-8c27-11e5-bba9-acbc327f1f17
+2015-11-16 13:58:31,447 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 df5d07f0-6c63-4cc6-95b8-b14708431f93-105e29c7-8c27-11e5-bba9-acbc327f1f17
+2015-11-16 13:58:31,447 - builder - INFO - 主机 compute01 需要添加至网络 df5d07f0-6c63-4cc6-95b8-b14708431f93-105e29c7-8c27-11e5-bba9-acbc327f1f17
+2015-11-16 13:58:31,448 - builder - INFO - 主机 compute02 需要添加至网络 df5d07f0-6c63-4cc6-95b8-b14708431f93-105e29c7-8c27-11e5-bba9-acbc327f1f17
+2015-11-16 13:58:31,448 - builder - INFO - 主机 controller 需要添加至网络 df5d07f0-6c63-4cc6-95b8-b14708431f93-105e29c7-8c27-11e5-bba9-acbc327f1f17
+2015-11-16 13:58:31,567 - builder - INFO - 为网络 df5d07f0-6c63-4cc6-95b8-b14708431f93 创建了子网 172.16.1.0/24-105e29c7-8c27-11e5-bba9-acbc327f1f17
+2015-11-16 13:58:31,567 - builder - INFO - 根据section net_public 创建网络 105e29c7-8c27-11e5-bba9-acbc327f1f17
+2015-11-16 13:58:31,568 - builder - INFO - 创建网络Public Network-105e29c7-8c27-11e5-bba9-acbc327f1f17
+2015-11-16 13:58:31,735 - builder - INFO - netId=fd82641f-a123-466e-8dd5-d3a2d4e8c862的网络创建成功，当前状态为ACTIVE-105e29c7-8c27-11e5-bba9-acbc327f1f17
+2015-11-16 13:58:31,735 - builder - INFO - 主机 compute01 需要添加至网络 fd82641f-a123-466e-8dd5-d3a2d4e8c862-105e29c7-8c27-11e5-bba9-acbc327f1f17
+2015-11-16 13:58:31,735 - builder - INFO - 主机 compute02 需要添加至网络 fd82641f-a123-466e-8dd5-d3a2d4e8c862-105e29c7-8c27-11e5-bba9-acbc327f1f17
+2015-11-16 13:58:31,736 - builder - INFO - 主机 controller 需要添加至网络 fd82641f-a123-466e-8dd5-d3a2d4e8c862-105e29c7-8c27-11e5-bba9-acbc327f1f17
+2015-11-16 13:58:58,599 - builder - INFO - auth_token : db25dfe43ea9422da15236dce7ce6c78 uuid : 20a6275c-8c27-11e5-aaa4-acbc327f1f17
+2015-11-16 13:58:58,609 - builder - INFO - 根据section net_management 创建网络 20a6275c-8c27-11e5-aaa4-acbc327f1f17
+2015-11-16 13:58:58,609 - builder - INFO - 创建网络Management Network-20a6275c-8c27-11e5-aaa4-acbc327f1f17
+2015-11-16 13:58:58,752 - builder - INFO - netId=b44b9c47-963f-4b99-a233-ef082a6a6ee3的网络创建成功，当前状态为ACTIVE-20a6275c-8c27-11e5-aaa4-acbc327f1f17
+2015-11-16 13:58:58,752 - builder - INFO - 主机 blockStorage 需要添加至网络 b44b9c47-963f-4b99-a233-ef082a6a6ee3-20a6275c-8c27-11e5-aaa4-acbc327f1f17
+2015-11-16 13:58:58,752 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 b44b9c47-963f-4b99-a233-ef082a6a6ee3-20a6275c-8c27-11e5-aaa4-acbc327f1f17
+2015-11-16 13:58:58,752 - builder - INFO - 主机 compute01 需要添加至网络 b44b9c47-963f-4b99-a233-ef082a6a6ee3-20a6275c-8c27-11e5-aaa4-acbc327f1f17
+2015-11-16 13:58:58,753 - builder - INFO - 主机 compute02 需要添加至网络 b44b9c47-963f-4b99-a233-ef082a6a6ee3-20a6275c-8c27-11e5-aaa4-acbc327f1f17
+2015-11-16 13:58:58,753 - builder - INFO - 主机 controller 需要添加至网络 b44b9c47-963f-4b99-a233-ef082a6a6ee3-20a6275c-8c27-11e5-aaa4-acbc327f1f17
+2015-11-16 13:58:58,939 - builder - INFO - 为网络 b44b9c47-963f-4b99-a233-ef082a6a6ee3 创建了子网 172.16.1.0/24-20a6275c-8c27-11e5-aaa4-acbc327f1f17
+2015-11-16 13:58:58,939 - builder - INFO - 根据section net_public 创建网络 20a6275c-8c27-11e5-aaa4-acbc327f1f17
+2015-11-16 13:58:58,939 - builder - INFO - 创建网络Public Network-20a6275c-8c27-11e5-aaa4-acbc327f1f17
+2015-11-16 13:58:59,162 - builder - INFO - netId=390947c8-e5d7-4a86-aa98-ff5a3878774e的网络创建成功，当前状态为ACTIVE-20a6275c-8c27-11e5-aaa4-acbc327f1f17
+2015-11-16 13:58:59,163 - builder - INFO - 主机 compute01 需要添加至网络 390947c8-e5d7-4a86-aa98-ff5a3878774e-20a6275c-8c27-11e5-aaa4-acbc327f1f17
+2015-11-16 13:58:59,163 - builder - INFO - 主机 compute02 需要添加至网络 390947c8-e5d7-4a86-aa98-ff5a3878774e-20a6275c-8c27-11e5-aaa4-acbc327f1f17
+2015-11-16 13:58:59,163 - builder - INFO - 主机 controller 需要添加至网络 390947c8-e5d7-4a86-aa98-ff5a3878774e-20a6275c-8c27-11e5-aaa4-acbc327f1f17
+2015-11-16 14:04:03,366 - builder - INFO - auth_token : 4c89e18603af47b48e92ff7838a68dd6 uuid : d659ec02-8c27-11e5-9798-acbc327f1f17
+2015-11-16 14:04:03,377 - builder - INFO - 根据section net_management 创建网络 d659ec02-8c27-11e5-9798-acbc327f1f17
+2015-11-16 14:04:03,378 - builder - INFO - 创建网络Management Network-d659ec02-8c27-11e5-9798-acbc327f1f17
+2015-11-16 14:04:03,494 - builder - INFO - netId=a70bc2a9-194d-43be-be10-2a34fe62790c的网络创建成功，当前状态为ACTIVE-d659ec02-8c27-11e5-9798-acbc327f1f17
+2015-11-16 14:04:03,494 - builder - INFO - 主机 blockStorage 需要添加至网络 a70bc2a9-194d-43be-be10-2a34fe62790c-d659ec02-8c27-11e5-9798-acbc327f1f17
+2015-11-16 14:04:03,494 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 a70bc2a9-194d-43be-be10-2a34fe62790c-d659ec02-8c27-11e5-9798-acbc327f1f17
+2015-11-16 14:04:03,494 - builder - INFO - 主机 compute01 需要添加至网络 a70bc2a9-194d-43be-be10-2a34fe62790c-d659ec02-8c27-11e5-9798-acbc327f1f17
+2015-11-16 14:04:03,494 - builder - INFO - 主机 compute02 需要添加至网络 a70bc2a9-194d-43be-be10-2a34fe62790c-d659ec02-8c27-11e5-9798-acbc327f1f17
+2015-11-16 14:04:03,495 - builder - INFO - 主机 controller 需要添加至网络 a70bc2a9-194d-43be-be10-2a34fe62790c-d659ec02-8c27-11e5-9798-acbc327f1f17
+2015-11-16 14:04:03,610 - builder - INFO - 为网络 a70bc2a9-194d-43be-be10-2a34fe62790c 创建了子网 172.16.1.0/24-d659ec02-8c27-11e5-9798-acbc327f1f17
+2015-11-16 14:04:03,610 - builder - INFO - 根据section net_public 创建网络 d659ec02-8c27-11e5-9798-acbc327f1f17
+2015-11-16 14:04:03,610 - builder - INFO - 创建网络Public Network-d659ec02-8c27-11e5-9798-acbc327f1f17
+2015-11-16 14:04:03,743 - builder - INFO - netId=3ad31173-5f43-4bbf-b72b-c685720729fa的网络创建成功，当前状态为ACTIVE-d659ec02-8c27-11e5-9798-acbc327f1f17
+2015-11-16 14:04:03,743 - builder - INFO - 主机 compute01 需要添加至网络 3ad31173-5f43-4bbf-b72b-c685720729fa-d659ec02-8c27-11e5-9798-acbc327f1f17
+2015-11-16 14:04:03,744 - builder - INFO - 主机 compute02 需要添加至网络 3ad31173-5f43-4bbf-b72b-c685720729fa-d659ec02-8c27-11e5-9798-acbc327f1f17
+2015-11-16 14:04:03,745 - builder - INFO - 主机 controller 需要添加至网络 3ad31173-5f43-4bbf-b72b-c685720729fa-d659ec02-8c27-11e5-9798-acbc327f1f17
+2015-11-16 14:15:30,891 - builder - INFO - auth_token : d989fb46b1334c8e93f73fff4ac34ce4 uuid : 702358a3-8c29-11e5-917f-acbc327f1f17
+2015-11-16 14:15:30,969 - builder - INFO - 根据section net_management 创建网络 702358a3-8c29-11e5-917f-acbc327f1f17
+2015-11-16 14:15:30,969 - builder - INFO - 创建网络Management Network-702358a3-8c29-11e5-917f-acbc327f1f17
+2015-11-16 14:15:31,036 - builder - INFO - netId=287b8e35-21d0-4235-a636-b306d92dfaa5的网络创建成功，当前状态为ACTIVE-702358a3-8c29-11e5-917f-acbc327f1f17
+2015-11-16 14:15:31,037 - builder - INFO - 主机 blockStorage 需要添加至网络 287b8e35-21d0-4235-a636-b306d92dfaa5-702358a3-8c29-11e5-917f-acbc327f1f17
+2015-11-16 14:15:31,037 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 287b8e35-21d0-4235-a636-b306d92dfaa5-702358a3-8c29-11e5-917f-acbc327f1f17
+2015-11-16 14:15:31,037 - builder - INFO - 主机 compute01 需要添加至网络 287b8e35-21d0-4235-a636-b306d92dfaa5-702358a3-8c29-11e5-917f-acbc327f1f17
+2015-11-16 14:15:31,037 - builder - INFO - 主机 compute02 需要添加至网络 287b8e35-21d0-4235-a636-b306d92dfaa5-702358a3-8c29-11e5-917f-acbc327f1f17
+2015-11-16 14:15:31,037 - builder - INFO - 主机 controller 需要添加至网络 287b8e35-21d0-4235-a636-b306d92dfaa5-702358a3-8c29-11e5-917f-acbc327f1f17
+2015-11-16 14:15:51,589 - builder - INFO - auth_token : b10bde9779284f39ad98c253c8e61809 uuid : 7c72f5b0-8c29-11e5-ab88-acbc327f1f17
+2015-11-16 14:15:51,675 - builder - INFO - 根据section net_management 创建网络 7c72f5b0-8c29-11e5-ab88-acbc327f1f17
+2015-11-16 14:15:51,675 - builder - INFO - 创建网络Management Network-7c72f5b0-8c29-11e5-ab88-acbc327f1f17
+2015-11-16 14:15:51,744 - builder - INFO - netId=4e0987aa-ce00-44c0-96f4-91e4536f1f47的网络创建成功，当前状态为ACTIVE-7c72f5b0-8c29-11e5-ab88-acbc327f1f17
+2015-11-16 14:15:51,745 - builder - INFO - 主机 blockStorage 需要添加至网络 4e0987aa-ce00-44c0-96f4-91e4536f1f47-7c72f5b0-8c29-11e5-ab88-acbc327f1f17
+2015-11-16 14:15:51,745 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 4e0987aa-ce00-44c0-96f4-91e4536f1f47-7c72f5b0-8c29-11e5-ab88-acbc327f1f17
+2015-11-16 14:15:51,745 - builder - INFO - 主机 compute01 需要添加至网络 4e0987aa-ce00-44c0-96f4-91e4536f1f47-7c72f5b0-8c29-11e5-ab88-acbc327f1f17
+2015-11-16 14:15:51,745 - builder - INFO - 主机 compute02 需要添加至网络 4e0987aa-ce00-44c0-96f4-91e4536f1f47-7c72f5b0-8c29-11e5-ab88-acbc327f1f17
+2015-11-16 14:15:51,745 - builder - INFO - 主机 controller 需要添加至网络 4e0987aa-ce00-44c0-96f4-91e4536f1f47-7c72f5b0-8c29-11e5-ab88-acbc327f1f17
+2015-11-16 14:15:51,916 - builder - INFO - 为网络 4e0987aa-ce00-44c0-96f4-91e4536f1f47 创建了子网 172.16.1.0/24-7c72f5b0-8c29-11e5-ab88-acbc327f1f17
+2015-11-16 14:15:51,916 - builder - INFO - 根据section net_public 创建网络 7c72f5b0-8c29-11e5-ab88-acbc327f1f17
+2015-11-16 14:15:51,917 - builder - INFO - 创建网络Public Network-7c72f5b0-8c29-11e5-ab88-acbc327f1f17
+2015-11-16 14:15:52,088 - builder - INFO - netId=91dd9db8-8b3c-43e0-a5e9-c270c9b5f854的网络创建成功，当前状态为ACTIVE-7c72f5b0-8c29-11e5-ab88-acbc327f1f17
+2015-11-16 14:15:52,089 - builder - INFO - 主机 compute01 需要添加至网络 91dd9db8-8b3c-43e0-a5e9-c270c9b5f854-7c72f5b0-8c29-11e5-ab88-acbc327f1f17
+2015-11-16 14:15:52,089 - builder - INFO - 主机 compute02 需要添加至网络 91dd9db8-8b3c-43e0-a5e9-c270c9b5f854-7c72f5b0-8c29-11e5-ab88-acbc327f1f17
+2015-11-16 14:15:52,090 - builder - INFO - 主机 controller 需要添加至网络 91dd9db8-8b3c-43e0-a5e9-c270c9b5f854-7c72f5b0-8c29-11e5-ab88-acbc327f1f17
+2015-11-16 14:16:48,840 - builder - INFO - auth_token : b8133761c83746dc94976c7822c2807f uuid : 9e9be2d1-8c29-11e5-98e8-acbc327f1f17
+2015-11-16 14:16:48,846 - builder - INFO - 根据section net_management 创建网络 9e9be2d1-8c29-11e5-98e8-acbc327f1f17
+2015-11-16 14:16:48,846 - builder - INFO - 创建网络Management Network-9e9be2d1-8c29-11e5-98e8-acbc327f1f17
+2015-11-16 14:16:48,961 - builder - INFO - netId=8db0192c-4fb1-4f32-a80c-b09ad380452f的网络创建成功，当前状态为ACTIVE-9e9be2d1-8c29-11e5-98e8-acbc327f1f17
+2015-11-16 14:16:48,961 - builder - INFO - 主机 blockStorage 需要添加至网络 8db0192c-4fb1-4f32-a80c-b09ad380452f-9e9be2d1-8c29-11e5-98e8-acbc327f1f17
+2015-11-16 14:16:48,961 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 8db0192c-4fb1-4f32-a80c-b09ad380452f-9e9be2d1-8c29-11e5-98e8-acbc327f1f17
+2015-11-16 14:16:48,962 - builder - INFO - 主机 compute01 需要添加至网络 8db0192c-4fb1-4f32-a80c-b09ad380452f-9e9be2d1-8c29-11e5-98e8-acbc327f1f17
+2015-11-16 14:16:48,962 - builder - INFO - 主机 compute02 需要添加至网络 8db0192c-4fb1-4f32-a80c-b09ad380452f-9e9be2d1-8c29-11e5-98e8-acbc327f1f17
+2015-11-16 14:16:48,962 - builder - INFO - 主机 controller 需要添加至网络 8db0192c-4fb1-4f32-a80c-b09ad380452f-9e9be2d1-8c29-11e5-98e8-acbc327f1f17
+2015-11-16 14:16:49,228 - builder - INFO - 为网络 8db0192c-4fb1-4f32-a80c-b09ad380452f 创建了子网 172.16.1.0/24-9e9be2d1-8c29-11e5-98e8-acbc327f1f17
+2015-11-16 14:16:49,228 - builder - INFO - 根据section net_public 创建网络 9e9be2d1-8c29-11e5-98e8-acbc327f1f17
+2015-11-16 14:16:49,229 - builder - INFO - 创建网络Public Network-9e9be2d1-8c29-11e5-98e8-acbc327f1f17
+2015-11-16 14:16:49,416 - builder - INFO - netId=0cba52f7-6cd2-4353-9fa3-7014ffdbc855的网络创建成功，当前状态为ACTIVE-9e9be2d1-8c29-11e5-98e8-acbc327f1f17
+2015-11-16 14:16:49,419 - builder - INFO - 主机 compute01 需要添加至网络 0cba52f7-6cd2-4353-9fa3-7014ffdbc855-9e9be2d1-8c29-11e5-98e8-acbc327f1f17
+2015-11-16 14:16:49,420 - builder - INFO - 主机 compute02 需要添加至网络 0cba52f7-6cd2-4353-9fa3-7014ffdbc855-9e9be2d1-8c29-11e5-98e8-acbc327f1f17
+2015-11-16 14:16:49,420 - builder - INFO - 主机 controller 需要添加至网络 0cba52f7-6cd2-4353-9fa3-7014ffdbc855-9e9be2d1-8c29-11e5-98e8-acbc327f1f17
+2015-11-16 14:17:08,123 - builder - INFO - auth_token : 7b3c95b9dc17484fb253d990e984df26 uuid : a9d25533-8c29-11e5-883c-acbc327f1f17
+2015-11-16 14:17:08,129 - builder - INFO - 根据section net_management 创建网络 a9d25533-8c29-11e5-883c-acbc327f1f17
+2015-11-16 14:17:08,129 - builder - INFO - 创建网络Management Network-a9d25533-8c29-11e5-883c-acbc327f1f17
+2015-11-16 14:17:08,293 - builder - INFO - netId=60817ffc-727c-4b77-8831-c1bfa20755b9的网络创建成功，当前状态为ACTIVE-a9d25533-8c29-11e5-883c-acbc327f1f17
+2015-11-16 14:17:08,294 - builder - INFO - 主机 blockStorage 需要添加至网络 60817ffc-727c-4b77-8831-c1bfa20755b9-a9d25533-8c29-11e5-883c-acbc327f1f17
+2015-11-16 14:17:08,294 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 60817ffc-727c-4b77-8831-c1bfa20755b9-a9d25533-8c29-11e5-883c-acbc327f1f17
+2015-11-16 14:17:08,294 - builder - INFO - 主机 compute01 需要添加至网络 60817ffc-727c-4b77-8831-c1bfa20755b9-a9d25533-8c29-11e5-883c-acbc327f1f17
+2015-11-16 14:17:08,294 - builder - INFO - 主机 compute02 需要添加至网络 60817ffc-727c-4b77-8831-c1bfa20755b9-a9d25533-8c29-11e5-883c-acbc327f1f17
+2015-11-16 14:17:08,294 - builder - INFO - 主机 controller 需要添加至网络 60817ffc-727c-4b77-8831-c1bfa20755b9-a9d25533-8c29-11e5-883c-acbc327f1f17
+2015-11-16 14:17:08,416 - builder - INFO - 为网络 60817ffc-727c-4b77-8831-c1bfa20755b9 创建了子网 172.16.1.0/24-a9d25533-8c29-11e5-883c-acbc327f1f17
+2015-11-16 14:17:08,417 - builder - INFO - 根据section net_public 创建网络 a9d25533-8c29-11e5-883c-acbc327f1f17
+2015-11-16 14:17:08,417 - builder - INFO - 创建网络Public Network-a9d25533-8c29-11e5-883c-acbc327f1f17
+2015-11-16 14:17:08,564 - builder - INFO - netId=e89a995f-e7ac-44f7-b542-497eb5c15005的网络创建成功，当前状态为ACTIVE-a9d25533-8c29-11e5-883c-acbc327f1f17
+2015-11-16 14:17:08,564 - builder - INFO - 主机 compute01 需要添加至网络 e89a995f-e7ac-44f7-b542-497eb5c15005-a9d25533-8c29-11e5-883c-acbc327f1f17
+2015-11-16 14:17:08,564 - builder - INFO - 主机 compute02 需要添加至网络 e89a995f-e7ac-44f7-b542-497eb5c15005-a9d25533-8c29-11e5-883c-acbc327f1f17
+2015-11-16 14:17:08,565 - builder - INFO - 主机 controller 需要添加至网络 e89a995f-e7ac-44f7-b542-497eb5c15005-a9d25533-8c29-11e5-883c-acbc327f1f17
+2015-11-16 14:22:49,571 - builder - INFO - auth_token : d77d770913cc4cbab1140401d686baff uuid : 7592320a-8c2a-11e5-ab60-acbc327f1f17
+2015-11-16 14:22:49,652 - builder - INFO - 根据section net_management 创建网络 7592320a-8c2a-11e5-ab60-acbc327f1f17
+2015-11-16 14:22:49,655 - builder - INFO - 创建网络Management Network-7592320a-8c2a-11e5-ab60-acbc327f1f17
+2015-11-16 14:22:49,798 - builder - INFO - netId=ea6c4b06-8b02-4fe1-bda2-46ec2c782701的网络创建成功，当前状态为ACTIVE-7592320a-8c2a-11e5-ab60-acbc327f1f17
+2015-11-16 14:22:49,799 - builder - INFO - 主机 blockStorage 需要添加至网络 ea6c4b06-8b02-4fe1-bda2-46ec2c782701-7592320a-8c2a-11e5-ab60-acbc327f1f17
+2015-11-16 14:22:49,799 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 ea6c4b06-8b02-4fe1-bda2-46ec2c782701-7592320a-8c2a-11e5-ab60-acbc327f1f17
+2015-11-16 14:22:49,799 - builder - INFO - 主机 compute01 需要添加至网络 ea6c4b06-8b02-4fe1-bda2-46ec2c782701-7592320a-8c2a-11e5-ab60-acbc327f1f17
+2015-11-16 14:22:49,800 - builder - INFO - 主机 compute02 需要添加至网络 ea6c4b06-8b02-4fe1-bda2-46ec2c782701-7592320a-8c2a-11e5-ab60-acbc327f1f17
+2015-11-16 14:22:49,800 - builder - INFO - 主机 controller 需要添加至网络 ea6c4b06-8b02-4fe1-bda2-46ec2c782701-7592320a-8c2a-11e5-ab60-acbc327f1f17
+2015-11-16 14:22:49,910 - builder - INFO - 为网络 ea6c4b06-8b02-4fe1-bda2-46ec2c782701 创建了子网 172.16.1.0/24-7592320a-8c2a-11e5-ab60-acbc327f1f17
+2015-11-16 14:22:49,910 - builder - INFO - 根据section net_public 创建网络 7592320a-8c2a-11e5-ab60-acbc327f1f17
+2015-11-16 14:22:49,910 - builder - INFO - 创建网络Public Network-7592320a-8c2a-11e5-ab60-acbc327f1f17
+2015-11-16 14:22:50,175 - builder - INFO - netId=737f8cb9-e9a8-4253-8adc-05626b2d86b3的网络创建成功，当前状态为ACTIVE-7592320a-8c2a-11e5-ab60-acbc327f1f17
+2015-11-16 14:22:50,175 - builder - INFO - 主机 compute01 需要添加至网络 737f8cb9-e9a8-4253-8adc-05626b2d86b3-7592320a-8c2a-11e5-ab60-acbc327f1f17
+2015-11-16 14:22:50,175 - builder - INFO - 主机 compute02 需要添加至网络 737f8cb9-e9a8-4253-8adc-05626b2d86b3-7592320a-8c2a-11e5-ab60-acbc327f1f17
+2015-11-16 14:22:50,175 - builder - INFO - 主机 controller 需要添加至网络 737f8cb9-e9a8-4253-8adc-05626b2d86b3-7592320a-8c2a-11e5-ab60-acbc327f1f17
+2015-11-16 14:22:50,341 - builder - INFO - 为网络 737f8cb9-e9a8-4253-8adc-05626b2d86b3 创建了子网 192.168.2.0/24-7592320a-8c2a-11e5-ab60-acbc327f1f17
+2015-11-16 14:22:50,341 - builder - INFO - 根据section net_flat 创建网络 7592320a-8c2a-11e5-ab60-acbc327f1f17
+2015-11-16 14:22:50,342 - builder - INFO - 创建网络Flat Network-7592320a-8c2a-11e5-ab60-acbc327f1f17
+2015-11-16 14:22:50,419 - builder - INFO - netId=0cb69cd5-ab7d-44b0-8ed3-a08cab839bd9的网络创建成功，当前状态为ACTIVE-7592320a-8c2a-11e5-ab60-acbc327f1f17
+2015-11-16 14:22:50,419 - builder - INFO - 主机 controller 需要添加至网络 0cb69cd5-ab7d-44b0-8ed3-a08cab839bd9-7592320a-8c2a-11e5-ab60-acbc327f1f17
+2015-11-16 14:22:50,623 - builder - INFO - 为网络 0cb69cd5-ab7d-44b0-8ed3-a08cab839bd9 创建了子网 172.16.2.0/24-7592320a-8c2a-11e5-ab60-acbc327f1f17
+2015-11-16 15:01:48,077 - builder - INFO - auth_token : ff915fc6d45e4ed8a8212ebafe0e7be0 uuid : e773cef5-8c2f-11e5-83a4-acbc327f1f17
+2015-11-16 15:01:48,087 - builder - INFO - 根据section net_management 创建网络 e773cef5-8c2f-11e5-83a4-acbc327f1f17
+2015-11-16 15:01:48,088 - builder - INFO - 创建网络Management Network-e773cef5-8c2f-11e5-83a4-acbc327f1f17
+2015-11-16 15:01:48,308 - builder - INFO - netId=33205d71-5918-42c3-83bf-1618db537850的网络创建成功，当前状态为ACTIVE-e773cef5-8c2f-11e5-83a4-acbc327f1f17
+2015-11-16 15:01:48,311 - builder - INFO - 主机 blockStorage 需要添加至网络 33205d71-5918-42c3-83bf-1618db537850-e773cef5-8c2f-11e5-83a4-acbc327f1f17
+2015-11-16 15:01:48,312 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 33205d71-5918-42c3-83bf-1618db537850-e773cef5-8c2f-11e5-83a4-acbc327f1f17
+2015-11-16 15:01:48,313 - builder - INFO - 主机 compute01 需要添加至网络 33205d71-5918-42c3-83bf-1618db537850-e773cef5-8c2f-11e5-83a4-acbc327f1f17
+2015-11-16 15:01:48,313 - builder - INFO - 主机 compute02 需要添加至网络 33205d71-5918-42c3-83bf-1618db537850-e773cef5-8c2f-11e5-83a4-acbc327f1f17
+2015-11-16 15:01:48,313 - builder - INFO - 主机 controller 需要添加至网络 33205d71-5918-42c3-83bf-1618db537850-e773cef5-8c2f-11e5-83a4-acbc327f1f17
+2015-11-16 15:01:48,467 - builder - INFO - 为网络 33205d71-5918-42c3-83bf-1618db537850 创建了子网 172.16.1.0/24-e773cef5-8c2f-11e5-83a4-acbc327f1f17
+2015-11-16 15:01:48,467 - builder - INFO - 根据section net_public 创建网络 e773cef5-8c2f-11e5-83a4-acbc327f1f17
+2015-11-16 15:01:48,468 - builder - INFO - 创建网络Public Network-e773cef5-8c2f-11e5-83a4-acbc327f1f17
+2015-11-16 15:01:48,644 - builder - INFO - netId=616c1930-1854-4539-9926-ca539d754fca的网络创建成功，当前状态为ACTIVE-e773cef5-8c2f-11e5-83a4-acbc327f1f17
+2015-11-16 15:01:48,644 - builder - INFO - 主机 compute01 需要添加至网络 616c1930-1854-4539-9926-ca539d754fca-e773cef5-8c2f-11e5-83a4-acbc327f1f17
+2015-11-16 15:01:48,644 - builder - INFO - 主机 compute02 需要添加至网络 616c1930-1854-4539-9926-ca539d754fca-e773cef5-8c2f-11e5-83a4-acbc327f1f17
+2015-11-16 15:01:48,644 - builder - INFO - 主机 controller 需要添加至网络 616c1930-1854-4539-9926-ca539d754fca-e773cef5-8c2f-11e5-83a4-acbc327f1f17
+2015-11-16 15:01:49,016 - builder - INFO - 为网络 616c1930-1854-4539-9926-ca539d754fca 创建了子网 192.168.2.0/24-e773cef5-8c2f-11e5-83a4-acbc327f1f17
+2015-11-16 15:01:49,016 - builder - INFO - 根据section net_flat 创建网络 e773cef5-8c2f-11e5-83a4-acbc327f1f17
+2015-11-16 15:01:49,016 - builder - INFO - 创建网络Flat Network-e773cef5-8c2f-11e5-83a4-acbc327f1f17
+2015-11-16 15:01:49,199 - builder - INFO - netId=93b16adb-edb3-42e4-a155-267f3bf1f428的网络创建成功，当前状态为ACTIVE-e773cef5-8c2f-11e5-83a4-acbc327f1f17
+2015-11-16 15:01:49,200 - builder - INFO - 主机 controller 需要添加至网络 93b16adb-edb3-42e4-a155-267f3bf1f428-e773cef5-8c2f-11e5-83a4-acbc327f1f17
+2015-11-16 15:01:49,433 - builder - INFO - 为网络 93b16adb-edb3-42e4-a155-267f3bf1f428 创建了子网 172.16.2.0/24-e773cef5-8c2f-11e5-83a4-acbc327f1f17
+2015-11-16 15:01:50,150 - builder - INFO - 创建主机 name = compute01 netsId =[u'33205d71-5918-42c3-83bf-1618db537850', u'616c1930-1854-4539-9926-ca539d754fca'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -e773cef5-8c2f-11e5-83a4-acbc327f1f17
+2015-11-16 15:01:52,138 - builder - INFO - 创建主机 name = compute02 netsId =[u'33205d71-5918-42c3-83bf-1618db537850', u'616c1930-1854-4539-9926-ca539d754fca'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -e773cef5-8c2f-11e5-83a4-acbc327f1f17
+2015-11-16 15:01:55,742 - builder - INFO - 创建主机 name = controller netsId =[u'33205d71-5918-42c3-83bf-1618db537850', u'616c1930-1854-4539-9926-ca539d754fca', u'93b16adb-edb3-42e4-a155-267f3bf1f428'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -e773cef5-8c2f-11e5-83a4-acbc327f1f17
+2015-11-16 15:01:58,744 - builder - INFO - 创建主机 name = blockStorage netsId =[u'33205d71-5918-42c3-83bf-1618db537850'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -e773cef5-8c2f-11e5-83a4-acbc327f1f17
+2015-11-16 15:02:01,478 - builder - INFO - 创建主机 name = ephemeralStorage netsId =[u'33205d71-5918-42c3-83bf-1618db537850'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -e773cef5-8c2f-11e5-83a4-acbc327f1f17
+2015-11-16 15:13:08,994 - builder - INFO - auth_token : 2950944bcf9646d2ac95dac88e455624 uuid : 7d536fb5-8c31-11e5-921e-acbc327f1f17
+2015-11-16 15:13:09,006 - builder - INFO - 根据section net_management 创建网络 7d536fb5-8c31-11e5-921e-acbc327f1f17
+2015-11-16 15:13:09,007 - builder - INFO - 创建网络Management Network-7d536fb5-8c31-11e5-921e-acbc327f1f17
+2015-11-16 15:13:11,311 - builder - INFO - netId=f0ed0e4d-af8a-461b-a400-d4d1c75e085a的网络创建成功，当前状态为ACTIVE-7d536fb5-8c31-11e5-921e-acbc327f1f17
+2015-11-16 15:13:11,312 - builder - INFO - 主机 blockStorage 需要添加至网络 f0ed0e4d-af8a-461b-a400-d4d1c75e085a-7d536fb5-8c31-11e5-921e-acbc327f1f17
+2015-11-16 15:13:11,312 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 f0ed0e4d-af8a-461b-a400-d4d1c75e085a-7d536fb5-8c31-11e5-921e-acbc327f1f17
+2015-11-16 15:13:11,312 - builder - INFO - 主机 compute01 需要添加至网络 f0ed0e4d-af8a-461b-a400-d4d1c75e085a-7d536fb5-8c31-11e5-921e-acbc327f1f17
+2015-11-16 15:13:11,312 - builder - INFO - 主机 compute02 需要添加至网络 f0ed0e4d-af8a-461b-a400-d4d1c75e085a-7d536fb5-8c31-11e5-921e-acbc327f1f17
+2015-11-16 15:13:11,312 - builder - INFO - 主机 controller 需要添加至网络 f0ed0e4d-af8a-461b-a400-d4d1c75e085a-7d536fb5-8c31-11e5-921e-acbc327f1f17
+2015-11-16 15:13:11,462 - builder - INFO - 为网络 f0ed0e4d-af8a-461b-a400-d4d1c75e085a 创建了子网 172.16.1.0/24-7d536fb5-8c31-11e5-921e-acbc327f1f17
+2015-11-16 15:13:11,462 - builder - INFO - 根据section net_public 创建网络 7d536fb5-8c31-11e5-921e-acbc327f1f17
+2015-11-16 15:13:11,462 - builder - INFO - 创建网络Public Network-7d536fb5-8c31-11e5-921e-acbc327f1f17
+2015-11-16 15:13:11,656 - builder - INFO - netId=113156a5-ba0b-4a95-aa32-a24b437783f2的网络创建成功，当前状态为ACTIVE-7d536fb5-8c31-11e5-921e-acbc327f1f17
+2015-11-16 15:13:11,657 - builder - INFO - 主机 compute01 需要添加至网络 113156a5-ba0b-4a95-aa32-a24b437783f2-7d536fb5-8c31-11e5-921e-acbc327f1f17
+2015-11-16 15:13:11,657 - builder - INFO - 主机 compute02 需要添加至网络 113156a5-ba0b-4a95-aa32-a24b437783f2-7d536fb5-8c31-11e5-921e-acbc327f1f17
+2015-11-16 15:13:11,657 - builder - INFO - 主机 controller 需要添加至网络 113156a5-ba0b-4a95-aa32-a24b437783f2-7d536fb5-8c31-11e5-921e-acbc327f1f17
+2015-11-16 15:13:11,837 - builder - INFO - 为网络 113156a5-ba0b-4a95-aa32-a24b437783f2 创建了子网 192.168.2.0/24-7d536fb5-8c31-11e5-921e-acbc327f1f17
+2015-11-16 15:13:11,837 - builder - INFO - 根据section net_flat 创建网络 7d536fb5-8c31-11e5-921e-acbc327f1f17
+2015-11-16 15:13:11,837 - builder - INFO - 创建网络Flat Network-7d536fb5-8c31-11e5-921e-acbc327f1f17
+2015-11-16 15:13:11,932 - builder - INFO - netId=79bba6d0-51ff-4e83-9fd1-164e90fe6178的网络创建成功，当前状态为ACTIVE-7d536fb5-8c31-11e5-921e-acbc327f1f17
+2015-11-16 15:13:11,932 - builder - INFO - 主机 controller 需要添加至网络 79bba6d0-51ff-4e83-9fd1-164e90fe6178-7d536fb5-8c31-11e5-921e-acbc327f1f17
+2015-11-16 15:13:12,108 - builder - INFO - 为网络 79bba6d0-51ff-4e83-9fd1-164e90fe6178 创建了子网 172.16.2.0/24-7d536fb5-8c31-11e5-921e-acbc327f1f17
+2015-11-16 15:13:12,640 - builder - INFO - 创建主机 name = compute01 netsId =[u'f0ed0e4d-af8a-461b-a400-d4d1c75e085a', u'113156a5-ba0b-4a95-aa32-a24b437783f2'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -7d536fb5-8c31-11e5-921e-acbc327f1f17
+2015-11-16 15:13:14,685 - builder - INFO - 创建主机 name = compute02 netsId =[u'f0ed0e4d-af8a-461b-a400-d4d1c75e085a', u'113156a5-ba0b-4a95-aa32-a24b437783f2'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -7d536fb5-8c31-11e5-921e-acbc327f1f17
+2015-11-16 15:13:17,672 - builder - INFO - 创建主机 name = controller netsId =[u'f0ed0e4d-af8a-461b-a400-d4d1c75e085a', u'113156a5-ba0b-4a95-aa32-a24b437783f2', u'79bba6d0-51ff-4e83-9fd1-164e90fe6178'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -7d536fb5-8c31-11e5-921e-acbc327f1f17
+2015-11-16 15:13:19,361 - builder - INFO - 创建主机 name = blockStorage netsId =[u'f0ed0e4d-af8a-461b-a400-d4d1c75e085a'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -7d536fb5-8c31-11e5-921e-acbc327f1f17
+2015-11-16 15:13:20,714 - builder - INFO - 创建主机 name = ephemeralStorage netsId =[u'f0ed0e4d-af8a-461b-a400-d4d1c75e085a'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -7d536fb5-8c31-11e5-921e-acbc327f1f17
+2015-11-16 15:15:38,120 - builder - INFO - auth_token : 512950544fb0443c9105fd475173b92a uuid : d637253a-8c31-11e5-866d-acbc327f1f17
+2015-11-16 15:15:38,129 - builder - INFO - 根据section net_management 创建网络 d637253a-8c31-11e5-866d-acbc327f1f17
+2015-11-16 15:15:38,130 - builder - INFO - 创建网络Management Network-d637253a-8c31-11e5-866d-acbc327f1f17
+2015-11-16 15:15:38,280 - builder - INFO - netId=f66e3ffb-608f-4a58-94f3-f59116a47762的网络创建成功，当前状态为ACTIVE-d637253a-8c31-11e5-866d-acbc327f1f17
+2015-11-16 15:15:38,280 - builder - INFO - 主机 blockStorage 需要添加至网络 f66e3ffb-608f-4a58-94f3-f59116a47762-d637253a-8c31-11e5-866d-acbc327f1f17
+2015-11-16 15:15:38,281 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 f66e3ffb-608f-4a58-94f3-f59116a47762-d637253a-8c31-11e5-866d-acbc327f1f17
+2015-11-16 15:15:38,281 - builder - INFO - 主机 compute01 需要添加至网络 f66e3ffb-608f-4a58-94f3-f59116a47762-d637253a-8c31-11e5-866d-acbc327f1f17
+2015-11-16 15:15:38,281 - builder - INFO - 主机 compute02 需要添加至网络 f66e3ffb-608f-4a58-94f3-f59116a47762-d637253a-8c31-11e5-866d-acbc327f1f17
+2015-11-16 15:15:38,281 - builder - INFO - 主机 controller 需要添加至网络 f66e3ffb-608f-4a58-94f3-f59116a47762-d637253a-8c31-11e5-866d-acbc327f1f17
+2015-11-16 15:15:38,437 - builder - INFO - 为网络 f66e3ffb-608f-4a58-94f3-f59116a47762 创建了子网 172.16.1.0/24-d637253a-8c31-11e5-866d-acbc327f1f17
+2015-11-16 15:15:38,437 - builder - INFO - 根据section net_public 创建网络 d637253a-8c31-11e5-866d-acbc327f1f17
+2015-11-16 15:15:38,437 - builder - INFO - 创建网络Public Network-d637253a-8c31-11e5-866d-acbc327f1f17
+2015-11-16 15:15:38,615 - builder - INFO - netId=b435278f-0f8b-42c0-95fa-4450189f31b0的网络创建成功，当前状态为ACTIVE-d637253a-8c31-11e5-866d-acbc327f1f17
+2015-11-16 15:15:38,615 - builder - INFO - 主机 compute01 需要添加至网络 b435278f-0f8b-42c0-95fa-4450189f31b0-d637253a-8c31-11e5-866d-acbc327f1f17
+2015-11-16 15:15:38,615 - builder - INFO - 主机 compute02 需要添加至网络 b435278f-0f8b-42c0-95fa-4450189f31b0-d637253a-8c31-11e5-866d-acbc327f1f17
+2015-11-16 15:15:38,615 - builder - INFO - 主机 controller 需要添加至网络 b435278f-0f8b-42c0-95fa-4450189f31b0-d637253a-8c31-11e5-866d-acbc327f1f17
+2015-11-16 15:15:38,806 - builder - INFO - 为网络 b435278f-0f8b-42c0-95fa-4450189f31b0 创建了子网 192.168.2.0/24-d637253a-8c31-11e5-866d-acbc327f1f17
+2015-11-16 15:15:38,806 - builder - INFO - 根据section net_flat 创建网络 d637253a-8c31-11e5-866d-acbc327f1f17
+2015-11-16 15:15:38,806 - builder - INFO - 创建网络Flat Network-d637253a-8c31-11e5-866d-acbc327f1f17
+2015-11-16 15:15:38,868 - builder - INFO - netId=1fb010e6-dc80-4e17-a090-e2e8fc9b9ba3的网络创建成功，当前状态为ACTIVE-d637253a-8c31-11e5-866d-acbc327f1f17
+2015-11-16 15:15:38,868 - builder - INFO - 主机 controller 需要添加至网络 1fb010e6-dc80-4e17-a090-e2e8fc9b9ba3-d637253a-8c31-11e5-866d-acbc327f1f17
+2015-11-16 15:15:39,009 - builder - INFO - 为网络 1fb010e6-dc80-4e17-a090-e2e8fc9b9ba3 创建了子网 172.16.2.0/24-d637253a-8c31-11e5-866d-acbc327f1f17
+2015-11-16 15:15:39,534 - builder - INFO - 创建主机 name = compute01 netsId =[u'f66e3ffb-608f-4a58-94f3-f59116a47762', u'b435278f-0f8b-42c0-95fa-4450189f31b0'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -d637253a-8c31-11e5-866d-acbc327f1f17
+2015-11-16 15:15:40,565 - builder - INFO - 创建主机 name = compute02 netsId =[u'f66e3ffb-608f-4a58-94f3-f59116a47762', u'b435278f-0f8b-42c0-95fa-4450189f31b0'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -d637253a-8c31-11e5-866d-acbc327f1f17
+2015-11-16 15:15:42,067 - builder - INFO - 创建主机 name = controller netsId =[u'f66e3ffb-608f-4a58-94f3-f59116a47762', u'b435278f-0f8b-42c0-95fa-4450189f31b0', u'1fb010e6-dc80-4e17-a090-e2e8fc9b9ba3'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -d637253a-8c31-11e5-866d-acbc327f1f17
+2015-11-16 15:15:44,251 - builder - INFO - 创建主机 name = blockStorage netsId =[u'f66e3ffb-608f-4a58-94f3-f59116a47762'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -d637253a-8c31-11e5-866d-acbc327f1f17
+2015-11-16 15:15:48,801 - builder - INFO - 创建主机 name = ephemeralStorage netsId =[u'f66e3ffb-608f-4a58-94f3-f59116a47762'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -d637253a-8c31-11e5-866d-acbc327f1f17
+2015-11-16 15:17:34,916 - builder - INFO - auth_token : 67feba37d3324687b0783bf8af3cfc77 uuid : 1bc74a30-8c32-11e5-8b58-acbc327f1f17
+2015-11-16 15:17:34,925 - builder - INFO - 根据section net_management 创建网络 1bc74a30-8c32-11e5-8b58-acbc327f1f17
+2015-11-16 15:17:34,925 - builder - INFO - 创建网络Management Network-1bc74a30-8c32-11e5-8b58-acbc327f1f17
+2015-11-16 15:17:35,173 - builder - INFO - netId=f213f2f4-09b8-4629-bed3-325218caddf2的网络创建成功，当前状态为ACTIVE-1bc74a30-8c32-11e5-8b58-acbc327f1f17
+2015-11-16 15:17:35,174 - builder - INFO - 主机 blockStorage 需要添加至网络 f213f2f4-09b8-4629-bed3-325218caddf2-1bc74a30-8c32-11e5-8b58-acbc327f1f17
+2015-11-16 15:17:35,174 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 f213f2f4-09b8-4629-bed3-325218caddf2-1bc74a30-8c32-11e5-8b58-acbc327f1f17
+2015-11-16 15:17:35,174 - builder - INFO - 主机 compute01 需要添加至网络 f213f2f4-09b8-4629-bed3-325218caddf2-1bc74a30-8c32-11e5-8b58-acbc327f1f17
+2015-11-16 15:17:35,174 - builder - INFO - 主机 compute02 需要添加至网络 f213f2f4-09b8-4629-bed3-325218caddf2-1bc74a30-8c32-11e5-8b58-acbc327f1f17
+2015-11-16 15:17:35,174 - builder - INFO - 主机 controller 需要添加至网络 f213f2f4-09b8-4629-bed3-325218caddf2-1bc74a30-8c32-11e5-8b58-acbc327f1f17
+2015-11-16 15:17:35,380 - builder - INFO - 为网络 f213f2f4-09b8-4629-bed3-325218caddf2 创建了子网 172.16.1.0/24-1bc74a30-8c32-11e5-8b58-acbc327f1f17
+2015-11-16 15:17:35,381 - builder - INFO - 根据section net_public 创建网络 1bc74a30-8c32-11e5-8b58-acbc327f1f17
+2015-11-16 15:17:35,381 - builder - INFO - 创建网络Public Network-1bc74a30-8c32-11e5-8b58-acbc327f1f17
+2015-11-16 15:17:35,669 - builder - INFO - netId=5b033905-4a2e-45f7-9661-34fc842399e0的网络创建成功，当前状态为ACTIVE-1bc74a30-8c32-11e5-8b58-acbc327f1f17
+2015-11-16 15:17:35,669 - builder - INFO - 主机 compute01 需要添加至网络 5b033905-4a2e-45f7-9661-34fc842399e0-1bc74a30-8c32-11e5-8b58-acbc327f1f17
+2015-11-16 15:17:35,669 - builder - INFO - 主机 compute02 需要添加至网络 5b033905-4a2e-45f7-9661-34fc842399e0-1bc74a30-8c32-11e5-8b58-acbc327f1f17
+2015-11-16 15:17:35,669 - builder - INFO - 主机 controller 需要添加至网络 5b033905-4a2e-45f7-9661-34fc842399e0-1bc74a30-8c32-11e5-8b58-acbc327f1f17
+2015-11-16 15:17:35,964 - builder - INFO - 为网络 5b033905-4a2e-45f7-9661-34fc842399e0 创建了子网 192.168.2.0/24-1bc74a30-8c32-11e5-8b58-acbc327f1f17
+2015-11-16 15:17:35,964 - builder - INFO - 根据section net_flat 创建网络 1bc74a30-8c32-11e5-8b58-acbc327f1f17
+2015-11-16 15:17:35,964 - builder - INFO - 创建网络Flat Network-1bc74a30-8c32-11e5-8b58-acbc327f1f17
+2015-11-16 15:17:36,137 - builder - INFO - netId=362d2067-dfa5-4de2-b8f2-d0f97cbab1fc的网络创建成功，当前状态为ACTIVE-1bc74a30-8c32-11e5-8b58-acbc327f1f17
+2015-11-16 15:17:36,138 - builder - INFO - 主机 controller 需要添加至网络 362d2067-dfa5-4de2-b8f2-d0f97cbab1fc-1bc74a30-8c32-11e5-8b58-acbc327f1f17
+2015-11-16 15:17:36,376 - builder - INFO - 为网络 362d2067-dfa5-4de2-b8f2-d0f97cbab1fc 创建了子网 172.16.2.0/24-1bc74a30-8c32-11e5-8b58-acbc327f1f17
+2015-11-16 15:17:37,241 - builder - INFO - 创建主机 name = compute01 netsId =[u'f213f2f4-09b8-4629-bed3-325218caddf2', u'5b033905-4a2e-45f7-9661-34fc842399e0'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -1bc74a30-8c32-11e5-8b58-acbc327f1f17
+2015-11-16 15:17:40,138 - builder - INFO - 创建主机 name = compute02 netsId =[u'f213f2f4-09b8-4629-bed3-325218caddf2', u'5b033905-4a2e-45f7-9661-34fc842399e0'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -1bc74a30-8c32-11e5-8b58-acbc327f1f17
+2015-11-16 15:17:47,487 - builder - INFO - 创建主机 name = controller netsId =[u'f213f2f4-09b8-4629-bed3-325218caddf2', u'5b033905-4a2e-45f7-9661-34fc842399e0', u'362d2067-dfa5-4de2-b8f2-d0f97cbab1fc'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -1bc74a30-8c32-11e5-8b58-acbc327f1f17
+2015-11-16 15:17:49,273 - builder - INFO - 创建主机 name = blockStorage netsId =[u'f213f2f4-09b8-4629-bed3-325218caddf2'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -1bc74a30-8c32-11e5-8b58-acbc327f1f17
+2015-11-16 15:17:50,869 - builder - INFO - 创建主机 name = ephemeralStorage netsId =[u'f213f2f4-09b8-4629-bed3-325218caddf2'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -1bc74a30-8c32-11e5-8b58-acbc327f1f17
+2015-11-16 15:52:52,370 - builder - INFO - auth_token : d06e703d0d764094865449973de3efbf uuid : 09d00e91-8c37-11e5-9ed9-acbc327f1f17
+2015-11-16 15:52:52,385 - builder - INFO - 根据section net_management 创建网络 09d00e91-8c37-11e5-9ed9-acbc327f1f17
+2015-11-16 15:52:52,385 - builder - INFO - 创建网络Management Network-09d00e91-8c37-11e5-9ed9-acbc327f1f17
+2015-11-16 15:52:52,595 - builder - INFO - netId=23f25988-3d82-44dc-bdaa-504e3a6643a0的网络创建成功，当前状态为ACTIVE-09d00e91-8c37-11e5-9ed9-acbc327f1f17
+2015-11-16 15:52:52,595 - builder - INFO - 主机 blockStorage 需要添加至网络 23f25988-3d82-44dc-bdaa-504e3a6643a0-09d00e91-8c37-11e5-9ed9-acbc327f1f17
+2015-11-16 15:52:52,595 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 23f25988-3d82-44dc-bdaa-504e3a6643a0-09d00e91-8c37-11e5-9ed9-acbc327f1f17
+2015-11-16 15:52:52,596 - builder - INFO - 主机 compute01 需要添加至网络 23f25988-3d82-44dc-bdaa-504e3a6643a0-09d00e91-8c37-11e5-9ed9-acbc327f1f17
+2015-11-16 15:52:52,596 - builder - INFO - 主机 compute02 需要添加至网络 23f25988-3d82-44dc-bdaa-504e3a6643a0-09d00e91-8c37-11e5-9ed9-acbc327f1f17
+2015-11-16 15:52:52,596 - builder - INFO - 主机 controller 需要添加至网络 23f25988-3d82-44dc-bdaa-504e3a6643a0-09d00e91-8c37-11e5-9ed9-acbc327f1f17
+2015-11-16 15:52:52,751 - builder - INFO - 为网络 23f25988-3d82-44dc-bdaa-504e3a6643a0 创建了子网 172.16.1.0/24-09d00e91-8c37-11e5-9ed9-acbc327f1f17
+2015-11-16 15:52:52,751 - builder - INFO - 根据section net_public 创建网络 09d00e91-8c37-11e5-9ed9-acbc327f1f17
+2015-11-16 15:52:52,751 - builder - INFO - 创建网络Public Network-09d00e91-8c37-11e5-9ed9-acbc327f1f17
+2015-11-16 15:52:52,973 - builder - INFO - netId=e2bc7350-fdb8-4a43-b58a-cce45d4602c1的网络创建成功，当前状态为ACTIVE-09d00e91-8c37-11e5-9ed9-acbc327f1f17
+2015-11-16 15:52:52,973 - builder - INFO - 主机 compute01 需要添加至网络 e2bc7350-fdb8-4a43-b58a-cce45d4602c1-09d00e91-8c37-11e5-9ed9-acbc327f1f17
+2015-11-16 15:52:52,974 - builder - INFO - 主机 compute02 需要添加至网络 e2bc7350-fdb8-4a43-b58a-cce45d4602c1-09d00e91-8c37-11e5-9ed9-acbc327f1f17
+2015-11-16 15:52:52,974 - builder - INFO - 主机 controller 需要添加至网络 e2bc7350-fdb8-4a43-b58a-cce45d4602c1-09d00e91-8c37-11e5-9ed9-acbc327f1f17
+2015-11-16 15:52:53,244 - builder - INFO - 为网络 e2bc7350-fdb8-4a43-b58a-cce45d4602c1 创建了子网 192.168.2.0/24-09d00e91-8c37-11e5-9ed9-acbc327f1f17
+2015-11-16 15:52:53,244 - builder - INFO - 根据section net_flat 创建网络 09d00e91-8c37-11e5-9ed9-acbc327f1f17
+2015-11-16 15:52:53,245 - builder - INFO - 创建网络Flat Network-09d00e91-8c37-11e5-9ed9-acbc327f1f17
+2015-11-16 15:52:53,362 - builder - INFO - netId=94662c00-c323-410e-be8b-5376d93bc5ea的网络创建成功，当前状态为ACTIVE-09d00e91-8c37-11e5-9ed9-acbc327f1f17
+2015-11-16 15:52:53,363 - builder - INFO - 主机 controller 需要添加至网络 94662c00-c323-410e-be8b-5376d93bc5ea-09d00e91-8c37-11e5-9ed9-acbc327f1f17
+2015-11-16 15:52:53,559 - builder - INFO - 为网络 94662c00-c323-410e-be8b-5376d93bc5ea 创建了子网 172.16.2.0/24-09d00e91-8c37-11e5-9ed9-acbc327f1f17
+2015-11-16 15:52:54,010 - builder - INFO - 创建主机 name = compute01 netsId =[u'23f25988-3d82-44dc-bdaa-504e3a6643a0', u'e2bc7350-fdb8-4a43-b58a-cce45d4602c1'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -09d00e91-8c37-11e5-9ed9-acbc327f1f17
+2015-11-16 15:52:57,544 - builder - INFO - 创建主机 name = compute02 netsId =[u'23f25988-3d82-44dc-bdaa-504e3a6643a0', u'e2bc7350-fdb8-4a43-b58a-cce45d4602c1'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -09d00e91-8c37-11e5-9ed9-acbc327f1f17
+2015-11-16 15:53:05,591 - builder - INFO - 创建主机 name = controller netsId =[u'23f25988-3d82-44dc-bdaa-504e3a6643a0', u'e2bc7350-fdb8-4a43-b58a-cce45d4602c1', u'94662c00-c323-410e-be8b-5376d93bc5ea'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -09d00e91-8c37-11e5-9ed9-acbc327f1f17
+2015-11-16 15:53:10,952 - builder - INFO - 创建主机 name = blockStorage netsId =[u'23f25988-3d82-44dc-bdaa-504e3a6643a0'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -09d00e91-8c37-11e5-9ed9-acbc327f1f17
+2015-11-16 15:53:13,593 - builder - INFO - 创建主机 name = ephemeralStorage netsId =[u'23f25988-3d82-44dc-bdaa-504e3a6643a0'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -09d00e91-8c37-11e5-9ed9-acbc327f1f17
+2015-11-16 15:53:30,827 - builder - INFO - auth_token : 0f59765f528d4d8b9d14fbf27a8819eb uuid : 206a1d3a-8c37-11e5-a32b-acbc327f1f17
+2015-11-16 15:53:30,848 - builder - INFO - 根据section net_management 创建网络 206a1d3a-8c37-11e5-a32b-acbc327f1f17
+2015-11-16 15:53:30,849 - builder - INFO - 创建网络Management Network-206a1d3a-8c37-11e5-a32b-acbc327f1f17
+2015-11-16 15:53:32,112 - builder - INFO - netId=6e90594e-33d7-4abd-9bad-036d986abf53的网络创建成功，当前状态为ACTIVE-206a1d3a-8c37-11e5-a32b-acbc327f1f17
+2015-11-16 15:53:32,113 - builder - INFO - 主机 blockStorage 需要添加至网络 6e90594e-33d7-4abd-9bad-036d986abf53-206a1d3a-8c37-11e5-a32b-acbc327f1f17
+2015-11-16 15:53:32,113 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 6e90594e-33d7-4abd-9bad-036d986abf53-206a1d3a-8c37-11e5-a32b-acbc327f1f17
+2015-11-16 15:53:32,113 - builder - INFO - 主机 compute01 需要添加至网络 6e90594e-33d7-4abd-9bad-036d986abf53-206a1d3a-8c37-11e5-a32b-acbc327f1f17
+2015-11-16 15:53:32,113 - builder - INFO - 主机 compute02 需要添加至网络 6e90594e-33d7-4abd-9bad-036d986abf53-206a1d3a-8c37-11e5-a32b-acbc327f1f17
+2015-11-16 15:53:32,113 - builder - INFO - 主机 controller 需要添加至网络 6e90594e-33d7-4abd-9bad-036d986abf53-206a1d3a-8c37-11e5-a32b-acbc327f1f17
+2015-11-16 15:53:38,220 - builder - INFO - 为网络 6e90594e-33d7-4abd-9bad-036d986abf53 创建了子网 172.16.1.0/24-206a1d3a-8c37-11e5-a32b-acbc327f1f17
+2015-11-16 15:53:38,220 - builder - INFO - 根据section net_public 创建网络 206a1d3a-8c37-11e5-a32b-acbc327f1f17
+2015-11-16 15:53:38,220 - builder - INFO - 创建网络Public Network-206a1d3a-8c37-11e5-a32b-acbc327f1f17
+2015-11-16 15:53:38,972 - builder - INFO - netId=2cc4a686-a917-4a6c-8be8-1c2bc44f7e6e的网络创建成功，当前状态为ACTIVE-206a1d3a-8c37-11e5-a32b-acbc327f1f17
+2015-11-16 15:53:38,972 - builder - INFO - 主机 compute01 需要添加至网络 2cc4a686-a917-4a6c-8be8-1c2bc44f7e6e-206a1d3a-8c37-11e5-a32b-acbc327f1f17
+2015-11-16 15:53:38,974 - builder - INFO - 主机 compute02 需要添加至网络 2cc4a686-a917-4a6c-8be8-1c2bc44f7e6e-206a1d3a-8c37-11e5-a32b-acbc327f1f17
+2015-11-16 15:53:38,974 - builder - INFO - 主机 controller 需要添加至网络 2cc4a686-a917-4a6c-8be8-1c2bc44f7e6e-206a1d3a-8c37-11e5-a32b-acbc327f1f17
+2015-11-16 15:53:40,016 - builder - INFO - 为网络 2cc4a686-a917-4a6c-8be8-1c2bc44f7e6e 创建了子网 192.168.2.0/24-206a1d3a-8c37-11e5-a32b-acbc327f1f17
+2015-11-16 15:53:40,016 - builder - INFO - 根据section net_flat 创建网络 206a1d3a-8c37-11e5-a32b-acbc327f1f17
+2015-11-16 15:53:40,016 - builder - INFO - 创建网络Flat Network-206a1d3a-8c37-11e5-a32b-acbc327f1f17
+2015-11-16 15:53:40,347 - builder - INFO - netId=e690be11-5079-4e19-bb62-1a9d0a3fe37b的网络创建成功，当前状态为ACTIVE-206a1d3a-8c37-11e5-a32b-acbc327f1f17
+2015-11-16 15:53:40,348 - builder - INFO - 主机 controller 需要添加至网络 e690be11-5079-4e19-bb62-1a9d0a3fe37b-206a1d3a-8c37-11e5-a32b-acbc327f1f17
+2015-11-16 15:53:41,158 - builder - INFO - 为网络 e690be11-5079-4e19-bb62-1a9d0a3fe37b 创建了子网 172.16.2.0/24-206a1d3a-8c37-11e5-a32b-acbc327f1f17
+2015-11-16 15:53:45,939 - builder - INFO - 创建主机 name = compute01 netsId =[u'6e90594e-33d7-4abd-9bad-036d986abf53', u'2cc4a686-a917-4a6c-8be8-1c2bc44f7e6e'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -206a1d3a-8c37-11e5-a32b-acbc327f1f17
+2015-11-16 15:54:09,137 - builder - INFO - 创建主机 name = compute02 netsId =[u'6e90594e-33d7-4abd-9bad-036d986abf53', u'2cc4a686-a917-4a6c-8be8-1c2bc44f7e6e'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -206a1d3a-8c37-11e5-a32b-acbc327f1f17
+2015-11-16 15:54:18,488 - builder - INFO - 创建主机 name = controller netsId =[u'6e90594e-33d7-4abd-9bad-036d986abf53', u'2cc4a686-a917-4a6c-8be8-1c2bc44f7e6e', u'e690be11-5079-4e19-bb62-1a9d0a3fe37b'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -206a1d3a-8c37-11e5-a32b-acbc327f1f17
+2015-11-16 15:56:11,283 - builder - INFO - auth_token : 53225dd21c5c44f0b9b4ceb5de717dfc uuid : 80807728-8c37-11e5-ac05-acbc327f1f17
+2015-11-16 15:56:11,291 - builder - INFO - 根据section net_management 创建网络 80807728-8c37-11e5-ac05-acbc327f1f17
+2015-11-16 15:56:11,291 - builder - INFO - 创建网络Management Network-80807728-8c37-11e5-ac05-acbc327f1f17
+2015-11-16 15:56:11,414 - builder - INFO - netId=ed5fb1b8-7360-4d8f-b70b-55295fb592c1的网络创建成功，当前状态为ACTIVE-80807728-8c37-11e5-ac05-acbc327f1f17
+2015-11-16 15:56:11,414 - builder - INFO - 主机 blockStorage 需要添加至网络 ed5fb1b8-7360-4d8f-b70b-55295fb592c1-80807728-8c37-11e5-ac05-acbc327f1f17
+2015-11-16 15:56:11,414 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 ed5fb1b8-7360-4d8f-b70b-55295fb592c1-80807728-8c37-11e5-ac05-acbc327f1f17
+2015-11-16 15:56:11,414 - builder - INFO - 主机 compute01 需要添加至网络 ed5fb1b8-7360-4d8f-b70b-55295fb592c1-80807728-8c37-11e5-ac05-acbc327f1f17
+2015-11-16 15:56:11,415 - builder - INFO - 主机 compute02 需要添加至网络 ed5fb1b8-7360-4d8f-b70b-55295fb592c1-80807728-8c37-11e5-ac05-acbc327f1f17
+2015-11-16 15:56:11,415 - builder - INFO - 主机 controller 需要添加至网络 ed5fb1b8-7360-4d8f-b70b-55295fb592c1-80807728-8c37-11e5-ac05-acbc327f1f17
+2015-11-16 15:56:11,526 - builder - INFO - 为网络 ed5fb1b8-7360-4d8f-b70b-55295fb592c1 创建了子网 172.16.1.0/24-80807728-8c37-11e5-ac05-acbc327f1f17
+2015-11-16 15:56:11,526 - builder - INFO - 根据section net_public 创建网络 80807728-8c37-11e5-ac05-acbc327f1f17
+2015-11-16 15:56:11,527 - builder - INFO - 创建网络Public Network-80807728-8c37-11e5-ac05-acbc327f1f17
+2015-11-16 15:56:11,693 - builder - INFO - netId=f8ab48b6-4fd4-49bb-b8d2-56226f8dd4d7的网络创建成功，当前状态为ACTIVE-80807728-8c37-11e5-ac05-acbc327f1f17
+2015-11-16 15:56:11,693 - builder - INFO - 主机 compute01 需要添加至网络 f8ab48b6-4fd4-49bb-b8d2-56226f8dd4d7-80807728-8c37-11e5-ac05-acbc327f1f17
+2015-11-16 15:56:11,693 - builder - INFO - 主机 compute02 需要添加至网络 f8ab48b6-4fd4-49bb-b8d2-56226f8dd4d7-80807728-8c37-11e5-ac05-acbc327f1f17
+2015-11-16 15:56:11,694 - builder - INFO - 主机 controller 需要添加至网络 f8ab48b6-4fd4-49bb-b8d2-56226f8dd4d7-80807728-8c37-11e5-ac05-acbc327f1f17
+2015-11-16 15:56:11,843 - builder - INFO - 为网络 f8ab48b6-4fd4-49bb-b8d2-56226f8dd4d7 创建了子网 192.168.2.0/24-80807728-8c37-11e5-ac05-acbc327f1f17
+2015-11-16 15:56:11,843 - builder - INFO - 根据section net_flat 创建网络 80807728-8c37-11e5-ac05-acbc327f1f17
+2015-11-16 15:56:11,844 - builder - INFO - 创建网络Flat Network-80807728-8c37-11e5-ac05-acbc327f1f17
+2015-11-16 15:56:11,927 - builder - INFO - netId=eb036efc-17eb-46f4-8f4d-e139176468f6的网络创建成功，当前状态为ACTIVE-80807728-8c37-11e5-ac05-acbc327f1f17
+2015-11-16 15:56:11,928 - builder - INFO - 主机 controller 需要添加至网络 eb036efc-17eb-46f4-8f4d-e139176468f6-80807728-8c37-11e5-ac05-acbc327f1f17
+2015-11-16 15:56:12,056 - builder - INFO - 为网络 eb036efc-17eb-46f4-8f4d-e139176468f6 创建了子网 172.16.2.0/24-80807728-8c37-11e5-ac05-acbc327f1f17
+2015-11-16 15:56:12,578 - builder - INFO - 创建主机 name = compute01 netsId =[u'ed5fb1b8-7360-4d8f-b70b-55295fb592c1', u'f8ab48b6-4fd4-49bb-b8d2-56226f8dd4d7'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -80807728-8c37-11e5-ac05-acbc327f1f17
+2015-11-16 15:56:13,880 - builder - INFO - 创建主机 name = compute02 netsId =[u'ed5fb1b8-7360-4d8f-b70b-55295fb592c1', u'f8ab48b6-4fd4-49bb-b8d2-56226f8dd4d7'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -80807728-8c37-11e5-ac05-acbc327f1f17
+2015-11-16 15:56:17,469 - builder - INFO - 创建主机 name = controller netsId =[u'ed5fb1b8-7360-4d8f-b70b-55295fb592c1', u'f8ab48b6-4fd4-49bb-b8d2-56226f8dd4d7', u'eb036efc-17eb-46f4-8f4d-e139176468f6'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -80807728-8c37-11e5-ac05-acbc327f1f17
+2015-11-16 15:56:20,526 - builder - INFO - 创建主机 name = blockStorage netsId =[u'ed5fb1b8-7360-4d8f-b70b-55295fb592c1'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -80807728-8c37-11e5-ac05-acbc327f1f17
+2015-11-16 15:56:23,258 - builder - INFO - 创建主机 name = ephemeralStorage netsId =[u'ed5fb1b8-7360-4d8f-b70b-55295fb592c1'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -80807728-8c37-11e5-ac05-acbc327f1f17
+2015-11-16 15:56:51,354 - builder - INFO - auth_token : 55ef1fb0d4184e5b91972150286977be uuid : 98399bf8-8c37-11e5-a62b-acbc327f1f17
+2015-11-16 15:56:51,376 - builder - INFO - 根据section net_management 创建网络 98399bf8-8c37-11e5-a62b-acbc327f1f17
+2015-11-16 15:56:51,376 - builder - INFO - 创建网络Management Network-98399bf8-8c37-11e5-a62b-acbc327f1f17
+2015-11-16 15:56:51,674 - builder - INFO - netId=1692c3c1-c5e1-4981-8157-f425cf7ba82b的网络创建成功，当前状态为ACTIVE-98399bf8-8c37-11e5-a62b-acbc327f1f17
+2015-11-16 15:56:51,674 - builder - INFO - 主机 blockStorage 需要添加至网络 1692c3c1-c5e1-4981-8157-f425cf7ba82b-98399bf8-8c37-11e5-a62b-acbc327f1f17
+2015-11-16 15:56:51,674 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 1692c3c1-c5e1-4981-8157-f425cf7ba82b-98399bf8-8c37-11e5-a62b-acbc327f1f17
+2015-11-16 15:56:51,674 - builder - INFO - 主机 compute01 需要添加至网络 1692c3c1-c5e1-4981-8157-f425cf7ba82b-98399bf8-8c37-11e5-a62b-acbc327f1f17
+2015-11-16 15:56:51,675 - builder - INFO - 主机 compute02 需要添加至网络 1692c3c1-c5e1-4981-8157-f425cf7ba82b-98399bf8-8c37-11e5-a62b-acbc327f1f17
+2015-11-16 15:56:51,675 - builder - INFO - 主机 controller 需要添加至网络 1692c3c1-c5e1-4981-8157-f425cf7ba82b-98399bf8-8c37-11e5-a62b-acbc327f1f17
+2015-11-16 15:56:51,927 - builder - INFO - 为网络 1692c3c1-c5e1-4981-8157-f425cf7ba82b 创建了子网 172.16.1.0/24-98399bf8-8c37-11e5-a62b-acbc327f1f17
+2015-11-16 15:56:51,928 - builder - INFO - 根据section net_public 创建网络 98399bf8-8c37-11e5-a62b-acbc327f1f17
+2015-11-16 15:56:51,928 - builder - INFO - 创建网络Public Network-98399bf8-8c37-11e5-a62b-acbc327f1f17
+2015-11-16 15:56:52,194 - builder - INFO - netId=825fc2c8-2391-44d0-8574-43c55104b754的网络创建成功，当前状态为ACTIVE-98399bf8-8c37-11e5-a62b-acbc327f1f17
+2015-11-16 15:56:52,195 - builder - INFO - 主机 compute01 需要添加至网络 825fc2c8-2391-44d0-8574-43c55104b754-98399bf8-8c37-11e5-a62b-acbc327f1f17
+2015-11-16 15:56:52,195 - builder - INFO - 主机 compute02 需要添加至网络 825fc2c8-2391-44d0-8574-43c55104b754-98399bf8-8c37-11e5-a62b-acbc327f1f17
+2015-11-16 15:56:52,195 - builder - INFO - 主机 controller 需要添加至网络 825fc2c8-2391-44d0-8574-43c55104b754-98399bf8-8c37-11e5-a62b-acbc327f1f17
+2015-11-16 15:56:52,346 - builder - INFO - 为网络 825fc2c8-2391-44d0-8574-43c55104b754 创建了子网 192.168.2.0/24-98399bf8-8c37-11e5-a62b-acbc327f1f17
+2015-11-16 15:56:52,346 - builder - INFO - 根据section net_flat 创建网络 98399bf8-8c37-11e5-a62b-acbc327f1f17
+2015-11-16 15:56:52,346 - builder - INFO - 创建网络Flat Network-98399bf8-8c37-11e5-a62b-acbc327f1f17
+2015-11-16 15:56:52,487 - builder - INFO - netId=4dbccf31-b56b-4639-9f06-025d3af91a1c的网络创建成功，当前状态为ACTIVE-98399bf8-8c37-11e5-a62b-acbc327f1f17
+2015-11-16 15:56:52,487 - builder - INFO - 主机 controller 需要添加至网络 4dbccf31-b56b-4639-9f06-025d3af91a1c-98399bf8-8c37-11e5-a62b-acbc327f1f17
+2015-11-16 15:56:52,785 - builder - INFO - 为网络 4dbccf31-b56b-4639-9f06-025d3af91a1c 创建了子网 172.16.2.0/24-98399bf8-8c37-11e5-a62b-acbc327f1f17
+2015-11-16 15:56:53,435 - builder - INFO - 创建主机 name = compute01 netsId =[u'1692c3c1-c5e1-4981-8157-f425cf7ba82b', u'825fc2c8-2391-44d0-8574-43c55104b754'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -98399bf8-8c37-11e5-a62b-acbc327f1f17
+2015-11-16 15:56:54,804 - builder - INFO - 创建主机 name = compute02 netsId =[u'1692c3c1-c5e1-4981-8157-f425cf7ba82b', u'825fc2c8-2391-44d0-8574-43c55104b754'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -98399bf8-8c37-11e5-a62b-acbc327f1f17
+2015-11-16 15:57:00,786 - builder - INFO - 创建主机 name = controller netsId =[u'1692c3c1-c5e1-4981-8157-f425cf7ba82b', u'825fc2c8-2391-44d0-8574-43c55104b754', u'4dbccf31-b56b-4639-9f06-025d3af91a1c'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -98399bf8-8c37-11e5-a62b-acbc327f1f17
+2015-11-16 15:57:03,500 - builder - INFO - 创建主机 name = blockStorage netsId =[u'1692c3c1-c5e1-4981-8157-f425cf7ba82b'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -98399bf8-8c37-11e5-a62b-acbc327f1f17
+2015-11-16 15:57:05,544 - builder - INFO - 创建主机 name = ephemeralStorage netsId =[u'1692c3c1-c5e1-4981-8157-f425cf7ba82b'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -98399bf8-8c37-11e5-a62b-acbc327f1f17
+2015-11-16 16:33:16,939 - builder - INFO - auth_token : aa00347ed6174a3387091c4bf309d171 uuid : af1282e8-8c3c-11e5-8f01-acbc327f1f17
+2015-11-16 16:33:16,953 - builder - INFO - 根据section net_management 创建网络 af1282e8-8c3c-11e5-8f01-acbc327f1f17
+2015-11-16 16:33:16,953 - builder - INFO - 创建网络Management Network-af1282e8-8c3c-11e5-8f01-acbc327f1f17
+2015-11-16 16:33:17,124 - builder - INFO - netId=7a2ff6ea-25fd-4c6a-836d-5e578bf9367c的网络创建成功，当前状态为ACTIVE-af1282e8-8c3c-11e5-8f01-acbc327f1f17
+2015-11-16 16:33:17,125 - builder - INFO - 主机 blockStorage 需要添加至网络 7a2ff6ea-25fd-4c6a-836d-5e578bf9367c-af1282e8-8c3c-11e5-8f01-acbc327f1f17
+2015-11-16 16:33:17,125 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 7a2ff6ea-25fd-4c6a-836d-5e578bf9367c-af1282e8-8c3c-11e5-8f01-acbc327f1f17
+2015-11-16 16:33:17,125 - builder - INFO - 主机 compute01 需要添加至网络 7a2ff6ea-25fd-4c6a-836d-5e578bf9367c-af1282e8-8c3c-11e5-8f01-acbc327f1f17
+2015-11-16 16:33:17,125 - builder - INFO - 主机 compute02 需要添加至网络 7a2ff6ea-25fd-4c6a-836d-5e578bf9367c-af1282e8-8c3c-11e5-8f01-acbc327f1f17
+2015-11-16 16:33:17,125 - builder - INFO - 主机 controller 需要添加至网络 7a2ff6ea-25fd-4c6a-836d-5e578bf9367c-af1282e8-8c3c-11e5-8f01-acbc327f1f17
+2015-11-16 16:33:17,254 - builder - INFO - 为网络 7a2ff6ea-25fd-4c6a-836d-5e578bf9367c 创建了子网 172.16.1.0/24-af1282e8-8c3c-11e5-8f01-acbc327f1f17
+2015-11-16 16:33:17,254 - builder - INFO - 根据section net_public 创建网络 af1282e8-8c3c-11e5-8f01-acbc327f1f17
+2015-11-16 16:33:17,254 - builder - INFO - 创建网络Public Network-af1282e8-8c3c-11e5-8f01-acbc327f1f17
+2015-11-16 16:33:17,403 - builder - INFO - netId=b76d4620-7138-4bfd-9349-e661b1a80354的网络创建成功，当前状态为ACTIVE-af1282e8-8c3c-11e5-8f01-acbc327f1f17
+2015-11-16 16:33:17,404 - builder - INFO - 主机 compute01 需要添加至网络 b76d4620-7138-4bfd-9349-e661b1a80354-af1282e8-8c3c-11e5-8f01-acbc327f1f17
+2015-11-16 16:33:17,404 - builder - INFO - 主机 compute02 需要添加至网络 b76d4620-7138-4bfd-9349-e661b1a80354-af1282e8-8c3c-11e5-8f01-acbc327f1f17
+2015-11-16 16:33:17,405 - builder - INFO - 主机 controller 需要添加至网络 b76d4620-7138-4bfd-9349-e661b1a80354-af1282e8-8c3c-11e5-8f01-acbc327f1f17
+2015-11-16 16:33:17,706 - builder - INFO - 为网络 b76d4620-7138-4bfd-9349-e661b1a80354 创建了子网 192.168.2.0/24-af1282e8-8c3c-11e5-8f01-acbc327f1f17
+2015-11-16 16:33:17,707 - builder - INFO - 根据section net_flat 创建网络 af1282e8-8c3c-11e5-8f01-acbc327f1f17
+2015-11-16 16:33:17,707 - builder - INFO - 创建网络Flat Network-af1282e8-8c3c-11e5-8f01-acbc327f1f17
+2015-11-16 16:33:17,817 - builder - INFO - netId=7e08ddd7-b8eb-438a-b230-6d0fc9762c7d的网络创建成功，当前状态为ACTIVE-af1282e8-8c3c-11e5-8f01-acbc327f1f17
+2015-11-16 16:33:17,817 - builder - INFO - 主机 controller 需要添加至网络 7e08ddd7-b8eb-438a-b230-6d0fc9762c7d-af1282e8-8c3c-11e5-8f01-acbc327f1f17
+2015-11-16 16:33:18,028 - builder - INFO - 为网络 7e08ddd7-b8eb-438a-b230-6d0fc9762c7d 创建了子网 172.16.2.0/24-af1282e8-8c3c-11e5-8f01-acbc327f1f17
+2015-11-16 16:33:18,735 - builder - INFO - 创建主机 name = compute01 netsId =[u'7a2ff6ea-25fd-4c6a-836d-5e578bf9367c', u'b76d4620-7138-4bfd-9349-e661b1a80354'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -af1282e8-8c3c-11e5-8f01-acbc327f1f17
+2015-11-16 16:33:21,368 - builder - INFO - 创建主机 name = compute02 netsId =[u'7a2ff6ea-25fd-4c6a-836d-5e578bf9367c', u'b76d4620-7138-4bfd-9349-e661b1a80354'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -af1282e8-8c3c-11e5-8f01-acbc327f1f17
+2015-11-16 16:33:24,126 - builder - INFO - 创建主机 name = controller netsId =[u'7a2ff6ea-25fd-4c6a-836d-5e578bf9367c', u'b76d4620-7138-4bfd-9349-e661b1a80354', u'7e08ddd7-b8eb-438a-b230-6d0fc9762c7d'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -af1282e8-8c3c-11e5-8f01-acbc327f1f17
+2015-11-16 16:33:26,494 - builder - INFO - 创建主机 name = blockStorage netsId =[u'7a2ff6ea-25fd-4c6a-836d-5e578bf9367c'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -af1282e8-8c3c-11e5-8f01-acbc327f1f17
+2015-11-16 16:33:38,021 - builder - INFO - 创建主机 name = ephemeralStorage netsId =[u'7a2ff6ea-25fd-4c6a-836d-5e578bf9367c'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -af1282e8-8c3c-11e5-8f01-acbc327f1f17
+2015-11-16 17:01:30,760 - builder - INFO - auth_token : 84d8e879ebd6438198e7dc6d2619583b uuid : a099ac73-8c40-11e5-a0ee-acbc327f1f17
+2015-11-16 17:01:30,798 - builder - INFO - 根据section net_management 创建网络 a099ac73-8c40-11e5-a0ee-acbc327f1f17
+2015-11-16 17:01:30,801 - builder - INFO - 创建网络Management Network-a099ac73-8c40-11e5-a0ee-acbc327f1f17
+2015-11-16 17:01:31,197 - builder - INFO - netId=33783da3-8491-47bb-ab43-3da2cc33b608的网络创建成功，当前状态为ACTIVE-a099ac73-8c40-11e5-a0ee-acbc327f1f17
+2015-11-16 17:01:31,198 - builder - INFO - 主机 blockStorage 需要添加至网络 33783da3-8491-47bb-ab43-3da2cc33b608-a099ac73-8c40-11e5-a0ee-acbc327f1f17
+2015-11-16 17:01:31,198 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 33783da3-8491-47bb-ab43-3da2cc33b608-a099ac73-8c40-11e5-a0ee-acbc327f1f17
+2015-11-16 17:01:31,198 - builder - INFO - 主机 compute01 需要添加至网络 33783da3-8491-47bb-ab43-3da2cc33b608-a099ac73-8c40-11e5-a0ee-acbc327f1f17
+2015-11-16 17:01:31,198 - builder - INFO - 主机 compute02 需要添加至网络 33783da3-8491-47bb-ab43-3da2cc33b608-a099ac73-8c40-11e5-a0ee-acbc327f1f17
+2015-11-16 17:01:31,199 - builder - INFO - 主机 controller 需要添加至网络 33783da3-8491-47bb-ab43-3da2cc33b608-a099ac73-8c40-11e5-a0ee-acbc327f1f17
+2015-11-16 17:01:31,613 - builder - INFO - 为网络 33783da3-8491-47bb-ab43-3da2cc33b608 创建了子网 172.16.1.0/24-a099ac73-8c40-11e5-a0ee-acbc327f1f17
+2015-11-16 17:01:31,613 - builder - INFO - 根据section net_public 创建网络 a099ac73-8c40-11e5-a0ee-acbc327f1f17
+2015-11-16 17:01:31,614 - builder - INFO - 创建网络Public Network-a099ac73-8c40-11e5-a0ee-acbc327f1f17
+2015-11-16 17:01:31,861 - builder - INFO - netId=ec6b3317-032a-4285-9f06-eb82363de98e的网络创建成功，当前状态为ACTIVE-a099ac73-8c40-11e5-a0ee-acbc327f1f17
+2015-11-16 17:01:31,861 - builder - INFO - 主机 compute01 需要添加至网络 ec6b3317-032a-4285-9f06-eb82363de98e-a099ac73-8c40-11e5-a0ee-acbc327f1f17
+2015-11-16 17:01:31,861 - builder - INFO - 主机 compute02 需要添加至网络 ec6b3317-032a-4285-9f06-eb82363de98e-a099ac73-8c40-11e5-a0ee-acbc327f1f17
+2015-11-16 17:01:31,861 - builder - INFO - 主机 controller 需要添加至网络 ec6b3317-032a-4285-9f06-eb82363de98e-a099ac73-8c40-11e5-a0ee-acbc327f1f17
+2015-11-16 17:01:32,577 - builder - INFO - 为网络 ec6b3317-032a-4285-9f06-eb82363de98e 创建了子网 192.168.2.0/24-a099ac73-8c40-11e5-a0ee-acbc327f1f17
+2015-11-16 17:01:32,577 - builder - INFO - 根据section net_flat 创建网络 a099ac73-8c40-11e5-a0ee-acbc327f1f17
+2015-11-16 17:01:32,577 - builder - INFO - 创建网络Flat Network-a099ac73-8c40-11e5-a0ee-acbc327f1f17
+2015-11-16 17:01:32,929 - builder - INFO - netId=704ea60a-3e93-47e7-abc1-ac3a114ebefd的网络创建成功，当前状态为ACTIVE-a099ac73-8c40-11e5-a0ee-acbc327f1f17
+2015-11-16 17:01:32,930 - builder - INFO - 主机 controller 需要添加至网络 704ea60a-3e93-47e7-abc1-ac3a114ebefd-a099ac73-8c40-11e5-a0ee-acbc327f1f17
+2015-11-16 17:01:33,268 - builder - INFO - 为网络 704ea60a-3e93-47e7-abc1-ac3a114ebefd 创建了子网 172.16.2.0/24-a099ac73-8c40-11e5-a0ee-acbc327f1f17
+2015-11-16 17:01:34,341 - builder - INFO - 创建主机 name = compute01 netsId =[u'33783da3-8491-47bb-ab43-3da2cc33b608', u'ec6b3317-032a-4285-9f06-eb82363de98e'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -a099ac73-8c40-11e5-a0ee-acbc327f1f17
+2015-11-16 17:02:44,973 - builder - INFO - auth_token : 07bb2106884c48f18ccaa2099ea3ff40 uuid : ccd3796e-8c40-11e5-ae72-acbc327f1f17
+2015-11-16 17:02:44,989 - builder - INFO - 根据section net_management 创建网络 ccd3796e-8c40-11e5-ae72-acbc327f1f17
+2015-11-16 17:02:44,990 - builder - INFO - 创建网络Management Network-ccd3796e-8c40-11e5-ae72-acbc327f1f17
+2015-11-16 17:02:45,323 - builder - INFO - netId=bfc0e5f0-5fe8-46aa-81d8-2fa62970ac6e的网络创建成功，当前状态为ACTIVE-ccd3796e-8c40-11e5-ae72-acbc327f1f17
+2015-11-16 17:02:45,323 - builder - INFO - 主机 blockStorage 需要添加至网络 bfc0e5f0-5fe8-46aa-81d8-2fa62970ac6e-ccd3796e-8c40-11e5-ae72-acbc327f1f17
+2015-11-16 17:02:45,324 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 bfc0e5f0-5fe8-46aa-81d8-2fa62970ac6e-ccd3796e-8c40-11e5-ae72-acbc327f1f17
+2015-11-16 17:02:45,324 - builder - INFO - 主机 compute01 需要添加至网络 bfc0e5f0-5fe8-46aa-81d8-2fa62970ac6e-ccd3796e-8c40-11e5-ae72-acbc327f1f17
+2015-11-16 17:02:45,324 - builder - INFO - 主机 compute02 需要添加至网络 bfc0e5f0-5fe8-46aa-81d8-2fa62970ac6e-ccd3796e-8c40-11e5-ae72-acbc327f1f17
+2015-11-16 17:02:45,324 - builder - INFO - 主机 controller 需要添加至网络 bfc0e5f0-5fe8-46aa-81d8-2fa62970ac6e-ccd3796e-8c40-11e5-ae72-acbc327f1f17
+2015-11-16 17:02:45,485 - builder - INFO - 为网络 bfc0e5f0-5fe8-46aa-81d8-2fa62970ac6e 创建了子网 172.16.1.0/24-ccd3796e-8c40-11e5-ae72-acbc327f1f17
+2015-11-16 17:02:45,485 - builder - INFO - 根据section net_public 创建网络 ccd3796e-8c40-11e5-ae72-acbc327f1f17
+2015-11-16 17:02:45,485 - builder - INFO - 创建网络Public Network-ccd3796e-8c40-11e5-ae72-acbc327f1f17
+2015-11-16 17:02:45,726 - builder - INFO - netId=24277c48-3e37-44fb-a056-3902aebd59bd的网络创建成功，当前状态为ACTIVE-ccd3796e-8c40-11e5-ae72-acbc327f1f17
+2015-11-16 17:02:45,726 - builder - INFO - 主机 compute01 需要添加至网络 24277c48-3e37-44fb-a056-3902aebd59bd-ccd3796e-8c40-11e5-ae72-acbc327f1f17
+2015-11-16 17:02:45,726 - builder - INFO - 主机 compute02 需要添加至网络 24277c48-3e37-44fb-a056-3902aebd59bd-ccd3796e-8c40-11e5-ae72-acbc327f1f17
+2015-11-16 17:02:45,726 - builder - INFO - 主机 controller 需要添加至网络 24277c48-3e37-44fb-a056-3902aebd59bd-ccd3796e-8c40-11e5-ae72-acbc327f1f17
+2015-11-16 17:02:45,975 - builder - INFO - 为网络 24277c48-3e37-44fb-a056-3902aebd59bd 创建了子网 192.168.2.0/24-ccd3796e-8c40-11e5-ae72-acbc327f1f17
+2015-11-16 17:02:45,975 - builder - INFO - 根据section net_flat 创建网络 ccd3796e-8c40-11e5-ae72-acbc327f1f17
+2015-11-16 17:02:45,976 - builder - INFO - 创建网络Flat Network-ccd3796e-8c40-11e5-ae72-acbc327f1f17
+2015-11-16 17:02:46,105 - builder - INFO - netId=2523d7f4-8d8a-4160-81ff-3e354547c810的网络创建成功，当前状态为ACTIVE-ccd3796e-8c40-11e5-ae72-acbc327f1f17
+2015-11-16 17:02:46,105 - builder - INFO - 主机 controller 需要添加至网络 2523d7f4-8d8a-4160-81ff-3e354547c810-ccd3796e-8c40-11e5-ae72-acbc327f1f17
+2015-11-16 17:02:46,272 - builder - INFO - 为网络 2523d7f4-8d8a-4160-81ff-3e354547c810 创建了子网 172.16.2.0/24-ccd3796e-8c40-11e5-ae72-acbc327f1f17
+2015-11-16 17:02:46,885 - builder - INFO - 创建主机 name = compute01 netsId =[u'bfc0e5f0-5fe8-46aa-81d8-2fa62970ac6e', u'24277c48-3e37-44fb-a056-3902aebd59bd'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -ccd3796e-8c40-11e5-ae72-acbc327f1f17
+2015-11-16 17:02:48,433 - builder - INFO - 创建主机 name = compute02 netsId =[u'bfc0e5f0-5fe8-46aa-81d8-2fa62970ac6e', u'24277c48-3e37-44fb-a056-3902aebd59bd'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -ccd3796e-8c40-11e5-ae72-acbc327f1f17
+2015-11-16 17:02:52,362 - builder - INFO - 创建主机 name = controller netsId =[u'bfc0e5f0-5fe8-46aa-81d8-2fa62970ac6e', u'24277c48-3e37-44fb-a056-3902aebd59bd', u'2523d7f4-8d8a-4160-81ff-3e354547c810'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -ccd3796e-8c40-11e5-ae72-acbc327f1f17
+2015-11-16 17:02:58,070 - builder - INFO - 创建主机 name = blockStorage netsId =[u'bfc0e5f0-5fe8-46aa-81d8-2fa62970ac6e'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -ccd3796e-8c40-11e5-ae72-acbc327f1f17
+2015-11-16 17:03:03,071 - builder - INFO - 创建主机 name = ephemeralStorage netsId =[u'bfc0e5f0-5fe8-46aa-81d8-2fa62970ac6e'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -ccd3796e-8c40-11e5-ae72-acbc327f1f17
+2015-11-16 17:14:53,506 - builder - INFO - auth_token : 309ef230301845f3b654b500a121b3c0 uuid : 7f262494-8c42-11e5-a017-acbc327f1f17
+2015-11-16 17:14:53,518 - builder - INFO - 根据section net_management 创建网络 7f262494-8c42-11e5-a017-acbc327f1f17
+2015-11-16 17:14:53,518 - builder - INFO - 创建网络Management Network-7f262494-8c42-11e5-a017-acbc327f1f17
+2015-11-16 17:14:53,717 - builder - INFO - netId=7385de08-8f9c-4552-9d50-cd4e354193b9的网络创建成功，当前状态为ACTIVE-7f262494-8c42-11e5-a017-acbc327f1f17
+2015-11-16 17:14:53,717 - builder - INFO - 主机 blockStorage 需要添加至网络 7385de08-8f9c-4552-9d50-cd4e354193b9-7f262494-8c42-11e5-a017-acbc327f1f17
+2015-11-16 17:14:53,717 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 7385de08-8f9c-4552-9d50-cd4e354193b9-7f262494-8c42-11e5-a017-acbc327f1f17
+2015-11-16 17:14:53,717 - builder - INFO - 主机 compute01 需要添加至网络 7385de08-8f9c-4552-9d50-cd4e354193b9-7f262494-8c42-11e5-a017-acbc327f1f17
+2015-11-16 17:14:53,718 - builder - INFO - 主机 compute02 需要添加至网络 7385de08-8f9c-4552-9d50-cd4e354193b9-7f262494-8c42-11e5-a017-acbc327f1f17
+2015-11-16 17:14:53,718 - builder - INFO - 主机 controller 需要添加至网络 7385de08-8f9c-4552-9d50-cd4e354193b9-7f262494-8c42-11e5-a017-acbc327f1f17
+2015-11-16 17:14:53,875 - builder - INFO - 为网络 7385de08-8f9c-4552-9d50-cd4e354193b9 创建了子网 172.16.1.0/24-7f262494-8c42-11e5-a017-acbc327f1f17
+2015-11-16 17:14:53,875 - builder - INFO - 根据section net_public 创建网络 7f262494-8c42-11e5-a017-acbc327f1f17
+2015-11-16 17:14:53,876 - builder - INFO - 创建网络Public Network-7f262494-8c42-11e5-a017-acbc327f1f17
+2015-11-16 17:14:54,015 - builder - INFO - netId=8e3700b4-0fd5-4c8f-ac69-c4a123478461的网络创建成功，当前状态为ACTIVE-7f262494-8c42-11e5-a017-acbc327f1f17
+2015-11-16 17:14:54,015 - builder - INFO - 主机 compute01 需要添加至网络 8e3700b4-0fd5-4c8f-ac69-c4a123478461-7f262494-8c42-11e5-a017-acbc327f1f17
+2015-11-16 17:14:54,016 - builder - INFO - 主机 compute02 需要添加至网络 8e3700b4-0fd5-4c8f-ac69-c4a123478461-7f262494-8c42-11e5-a017-acbc327f1f17
+2015-11-16 17:14:54,016 - builder - INFO - 主机 controller 需要添加至网络 8e3700b4-0fd5-4c8f-ac69-c4a123478461-7f262494-8c42-11e5-a017-acbc327f1f17
+2015-11-16 17:14:54,273 - builder - INFO - 为网络 8e3700b4-0fd5-4c8f-ac69-c4a123478461 创建了子网 192.168.2.0/24-7f262494-8c42-11e5-a017-acbc327f1f17
+2015-11-16 17:14:54,274 - builder - INFO - 根据section net_flat 创建网络 7f262494-8c42-11e5-a017-acbc327f1f17
+2015-11-16 17:14:54,274 - builder - INFO - 创建网络Flat Network-7f262494-8c42-11e5-a017-acbc327f1f17
+2015-11-16 17:14:54,360 - builder - INFO - netId=fbfbf74c-f72c-4fd0-9a89-91ca02e7b850的网络创建成功，当前状态为ACTIVE-7f262494-8c42-11e5-a017-acbc327f1f17
+2015-11-16 17:14:54,361 - builder - INFO - 主机 controller 需要添加至网络 fbfbf74c-f72c-4fd0-9a89-91ca02e7b850-7f262494-8c42-11e5-a017-acbc327f1f17
+2015-11-16 17:14:54,506 - builder - INFO - 为网络 fbfbf74c-f72c-4fd0-9a89-91ca02e7b850 创建了子网 172.16.2.0/24-7f262494-8c42-11e5-a017-acbc327f1f17
+2015-11-16 17:14:55,157 - builder - INFO - 创建主机 name = compute01 netsId =[u'7385de08-8f9c-4552-9d50-cd4e354193b9', u'8e3700b4-0fd5-4c8f-ac69-c4a123478461'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -7f262494-8c42-11e5-a017-acbc327f1f17
+2015-11-16 17:14:57,529 - builder - INFO - 创建主机 name = compute02 netsId =[u'7385de08-8f9c-4552-9d50-cd4e354193b9', u'8e3700b4-0fd5-4c8f-ac69-c4a123478461'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -7f262494-8c42-11e5-a017-acbc327f1f17
+2015-11-16 17:15:04,049 - builder - INFO - 创建主机 name = controller netsId =[u'7385de08-8f9c-4552-9d50-cd4e354193b9', u'8e3700b4-0fd5-4c8f-ac69-c4a123478461', u'fbfbf74c-f72c-4fd0-9a89-91ca02e7b850'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -7f262494-8c42-11e5-a017-acbc327f1f17
+2015-11-16 17:15:07,934 - builder - INFO - 创建主机 name = blockStorage netsId =[u'7385de08-8f9c-4552-9d50-cd4e354193b9'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -7f262494-8c42-11e5-a017-acbc327f1f17
+2015-11-16 17:15:14,422 - builder - INFO - 创建主机 name = ephemeralStorage netsId =[u'7385de08-8f9c-4552-9d50-cd4e354193b9'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -7f262494-8c42-11e5-a017-acbc327f1f17
+2015-11-16 17:17:42,510 - builder - INFO - auth_token : 8a292a1378a747ab94aa040f0d5dc946 uuid : e3e5174f-8c42-11e5-b8d0-acbc327f1f17
+2015-11-16 17:17:42,518 - builder - INFO - 根据section net_management 创建网络 e3e5174f-8c42-11e5-b8d0-acbc327f1f17
+2015-11-16 17:17:42,519 - builder - INFO - 创建网络Management Network-e3e5174f-8c42-11e5-b8d0-acbc327f1f17
+2015-11-16 17:17:42,703 - builder - INFO - netId=1c4954a8-2592-49fd-b3c0-e0d44836668e的网络创建成功，当前状态为ACTIVE-e3e5174f-8c42-11e5-b8d0-acbc327f1f17
+2015-11-16 17:17:42,703 - builder - INFO - 主机 blockStorage 需要添加至网络 1c4954a8-2592-49fd-b3c0-e0d44836668e-e3e5174f-8c42-11e5-b8d0-acbc327f1f17
+2015-11-16 17:17:42,703 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 1c4954a8-2592-49fd-b3c0-e0d44836668e-e3e5174f-8c42-11e5-b8d0-acbc327f1f17
+2015-11-16 17:17:42,703 - builder - INFO - 主机 compute01 需要添加至网络 1c4954a8-2592-49fd-b3c0-e0d44836668e-e3e5174f-8c42-11e5-b8d0-acbc327f1f17
+2015-11-16 17:17:42,704 - builder - INFO - 主机 compute02 需要添加至网络 1c4954a8-2592-49fd-b3c0-e0d44836668e-e3e5174f-8c42-11e5-b8d0-acbc327f1f17
+2015-11-16 17:17:42,704 - builder - INFO - 主机 controller 需要添加至网络 1c4954a8-2592-49fd-b3c0-e0d44836668e-e3e5174f-8c42-11e5-b8d0-acbc327f1f17
+2015-11-16 17:17:42,810 - builder - INFO - 为网络 1c4954a8-2592-49fd-b3c0-e0d44836668e 创建了子网 172.16.1.0/24-e3e5174f-8c42-11e5-b8d0-acbc327f1f17
+2015-11-16 17:17:42,810 - builder - INFO - 根据section net_public 创建网络 e3e5174f-8c42-11e5-b8d0-acbc327f1f17
+2015-11-16 17:17:42,813 - builder - INFO - 创建网络Public Network-e3e5174f-8c42-11e5-b8d0-acbc327f1f17
+2015-11-16 17:17:42,956 - builder - INFO - netId=22eb727e-9c96-41b0-ac64-b1a7054d773d的网络创建成功，当前状态为ACTIVE-e3e5174f-8c42-11e5-b8d0-acbc327f1f17
+2015-11-16 17:17:42,956 - builder - INFO - 主机 compute01 需要添加至网络 22eb727e-9c96-41b0-ac64-b1a7054d773d-e3e5174f-8c42-11e5-b8d0-acbc327f1f17
+2015-11-16 17:17:42,956 - builder - INFO - 主机 compute02 需要添加至网络 22eb727e-9c96-41b0-ac64-b1a7054d773d-e3e5174f-8c42-11e5-b8d0-acbc327f1f17
+2015-11-16 17:17:42,956 - builder - INFO - 主机 controller 需要添加至网络 22eb727e-9c96-41b0-ac64-b1a7054d773d-e3e5174f-8c42-11e5-b8d0-acbc327f1f17
+2015-11-16 17:17:43,113 - builder - INFO - 为网络 22eb727e-9c96-41b0-ac64-b1a7054d773d 创建了子网 192.168.2.0/24-e3e5174f-8c42-11e5-b8d0-acbc327f1f17
+2015-11-16 17:17:43,113 - builder - INFO - 根据section net_flat 创建网络 e3e5174f-8c42-11e5-b8d0-acbc327f1f17
+2015-11-16 17:17:43,113 - builder - INFO - 创建网络Flat Network-e3e5174f-8c42-11e5-b8d0-acbc327f1f17
+2015-11-16 17:17:43,161 - builder - INFO - netId=face387c-4349-48ac-8104-dde3a3a97d5b的网络创建成功，当前状态为ACTIVE-e3e5174f-8c42-11e5-b8d0-acbc327f1f17
+2015-11-16 17:17:43,162 - builder - INFO - 主机 controller 需要添加至网络 face387c-4349-48ac-8104-dde3a3a97d5b-e3e5174f-8c42-11e5-b8d0-acbc327f1f17
+2015-11-16 17:17:43,276 - builder - INFO - 为网络 face387c-4349-48ac-8104-dde3a3a97d5b 创建了子网 172.16.2.0/24-e3e5174f-8c42-11e5-b8d0-acbc327f1f17
+2015-11-16 17:17:43,604 - builder - INFO - 创建主机 name = compute01 netsId =[u'1c4954a8-2592-49fd-b3c0-e0d44836668e', u'22eb727e-9c96-41b0-ac64-b1a7054d773d'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -e3e5174f-8c42-11e5-b8d0-acbc327f1f17
+2015-11-16 17:17:44,976 - builder - INFO - 创建主机 name = compute02 netsId =[u'1c4954a8-2592-49fd-b3c0-e0d44836668e', u'22eb727e-9c96-41b0-ac64-b1a7054d773d'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -e3e5174f-8c42-11e5-b8d0-acbc327f1f17
+2015-11-16 17:17:48,922 - builder - INFO - 创建主机 name = controller netsId =[u'1c4954a8-2592-49fd-b3c0-e0d44836668e', u'22eb727e-9c96-41b0-ac64-b1a7054d773d', u'face387c-4349-48ac-8104-dde3a3a97d5b'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -e3e5174f-8c42-11e5-b8d0-acbc327f1f17
+2015-11-16 17:17:50,941 - builder - INFO - 创建主机 name = blockStorage netsId =[u'1c4954a8-2592-49fd-b3c0-e0d44836668e'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -e3e5174f-8c42-11e5-b8d0-acbc327f1f17
+2015-11-16 17:17:54,063 - builder - INFO - 创建主机 name = ephemeralStorage netsId =[u'1c4954a8-2592-49fd-b3c0-e0d44836668e'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -e3e5174f-8c42-11e5-b8d0-acbc327f1f17
+2015-11-16 17:29:43,089 - builder - INFO - auth_token : cbaa7c1df88641af9f1e3f3d45f6bd74 uuid : 90c0527d-8c44-11e5-83ba-acbc327f1f17
+2015-11-16 17:29:43,101 - builder - INFO - 根据section net_management 创建网络 90c0527d-8c44-11e5-83ba-acbc327f1f17
+2015-11-16 17:29:43,101 - builder - INFO - 创建网络Management Network-90c0527d-8c44-11e5-83ba-acbc327f1f17
+2015-11-16 17:29:43,411 - builder - INFO - netId=29413de0-47ce-48d5-be0b-2682a64faacb的网络创建成功，当前状态为ACTIVE-90c0527d-8c44-11e5-83ba-acbc327f1f17
+2015-11-16 17:29:43,411 - builder - INFO - 主机 blockStorage 需要添加至网络 29413de0-47ce-48d5-be0b-2682a64faacb-90c0527d-8c44-11e5-83ba-acbc327f1f17
+2015-11-16 17:29:43,411 - builder - INFO - 主机 ephemeralStorage 需要添加至网络 29413de0-47ce-48d5-be0b-2682a64faacb-90c0527d-8c44-11e5-83ba-acbc327f1f17
+2015-11-16 17:29:43,412 - builder - INFO - 主机 compute01 需要添加至网络 29413de0-47ce-48d5-be0b-2682a64faacb-90c0527d-8c44-11e5-83ba-acbc327f1f17
+2015-11-16 17:29:43,412 - builder - INFO - 主机 compute02 需要添加至网络 29413de0-47ce-48d5-be0b-2682a64faacb-90c0527d-8c44-11e5-83ba-acbc327f1f17
+2015-11-16 17:29:43,412 - builder - INFO - 主机 controller 需要添加至网络 29413de0-47ce-48d5-be0b-2682a64faacb-90c0527d-8c44-11e5-83ba-acbc327f1f17
+2015-11-16 17:29:43,653 - builder - INFO - 为网络 29413de0-47ce-48d5-be0b-2682a64faacb 创建了子网 172.16.1.0/24-90c0527d-8c44-11e5-83ba-acbc327f1f17
+2015-11-16 17:29:43,653 - builder - INFO - 根据section net_public 创建网络 90c0527d-8c44-11e5-83ba-acbc327f1f17
+2015-11-16 17:29:43,653 - builder - INFO - 创建网络Public Network-90c0527d-8c44-11e5-83ba-acbc327f1f17
+2015-11-16 17:29:43,781 - builder - INFO - netId=708ce982-9083-4c4a-931b-2b8b695bdae9的网络创建成功，当前状态为ACTIVE-90c0527d-8c44-11e5-83ba-acbc327f1f17
+2015-11-16 17:29:43,781 - builder - INFO - 主机 compute01 需要添加至网络 708ce982-9083-4c4a-931b-2b8b695bdae9-90c0527d-8c44-11e5-83ba-acbc327f1f17
+2015-11-16 17:29:43,781 - builder - INFO - 主机 compute02 需要添加至网络 708ce982-9083-4c4a-931b-2b8b695bdae9-90c0527d-8c44-11e5-83ba-acbc327f1f17
+2015-11-16 17:29:43,781 - builder - INFO - 主机 controller 需要添加至网络 708ce982-9083-4c4a-931b-2b8b695bdae9-90c0527d-8c44-11e5-83ba-acbc327f1f17
+2015-11-16 17:29:43,921 - builder - INFO - 为网络 708ce982-9083-4c4a-931b-2b8b695bdae9 创建了子网 192.168.2.0/24-90c0527d-8c44-11e5-83ba-acbc327f1f17
+2015-11-16 17:29:43,922 - builder - INFO - 根据section net_flat 创建网络 90c0527d-8c44-11e5-83ba-acbc327f1f17
+2015-11-16 17:29:43,922 - builder - INFO - 创建网络Flat Network-90c0527d-8c44-11e5-83ba-acbc327f1f17
+2015-11-16 17:29:43,987 - builder - INFO - netId=c3961896-c344-4649-bea8-ae2ca60c4604的网络创建成功，当前状态为ACTIVE-90c0527d-8c44-11e5-83ba-acbc327f1f17
+2015-11-16 17:29:43,987 - builder - INFO - 主机 controller 需要添加至网络 c3961896-c344-4649-bea8-ae2ca60c4604-90c0527d-8c44-11e5-83ba-acbc327f1f17
+2015-11-16 17:29:44,100 - builder - INFO - 为网络 c3961896-c344-4649-bea8-ae2ca60c4604 创建了子网 172.16.2.0/24-90c0527d-8c44-11e5-83ba-acbc327f1f17
+2015-11-16 17:29:44,454 - builder - INFO - 创建主机 name = compute01 netsId =[u'29413de0-47ce-48d5-be0b-2682a64faacb', u'708ce982-9083-4c4a-931b-2b8b695bdae9'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -90c0527d-8c44-11e5-83ba-acbc327f1f17
+2015-11-16 17:29:45,697 - builder - INFO - 创建主机 name = compute02 netsId =[u'29413de0-47ce-48d5-be0b-2682a64faacb', u'708ce982-9083-4c4a-931b-2b8b695bdae9'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -90c0527d-8c44-11e5-83ba-acbc327f1f17
+2015-11-16 17:29:47,195 - builder - INFO - 创建主机 name = controller netsId =[u'29413de0-47ce-48d5-be0b-2682a64faacb', u'708ce982-9083-4c4a-931b-2b8b695bdae9', u'c3961896-c344-4649-bea8-ae2ca60c4604'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -90c0527d-8c44-11e5-83ba-acbc327f1f17
+2015-11-16 17:29:49,007 - builder - INFO - 创建主机 name = blockStorage netsId =[u'29413de0-47ce-48d5-be0b-2682a64faacb'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -90c0527d-8c44-11e5-83ba-acbc327f1f17
+2015-11-16 17:29:51,580 - builder - INFO - 创建主机 name = ephemeralStorage netsId =[u'29413de0-47ce-48d5-be0b-2682a64faacb'] img_id =1 flavor_id =f0a7d21a-aac5-4e4d-9ebb-71e2aac2c40a -90c0527d-8c44-11e5-83ba-acbc327f1f17
